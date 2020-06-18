@@ -6,6 +6,10 @@ title = "Leivinkivi"
 
 enableGitInfo = true
 
+
 [params]
     BookRepo = "https://github.com/leivinkivi/leivinkivi.github.io"
     BookComments = false
+    BookSection = "docs"
+    BookSearch = true
+    BookLogo = "bread.png"
