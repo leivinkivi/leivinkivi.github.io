@@ -14,7 +14,7 @@ ota yhteyttä.
 
 ## Lyhyesti
 
-* Vehnää ja ruista voi käyttää jyvänä, suurimona tai helmenä.
+* Vehnä ja ruis ovat paljasjyväisiä joten niitä voi käyttää jyvänä, suurimona tai helmenä.
 * Kaura ja ohra pitää olla kuorittu, eli näiden käyttö suurimona tai helmenä..
 * Ostaessa jyviä suoraan tuottajalta on hyvä mainita että ne tulevat
 kotijauhatukseen.
@@ -26,7 +26,7 @@ omilta sivuilta tai jälleenmyyjiltä. Myllyt ovat yleisimmin pöytäkäyttöön
 tarkoitettuja sähköisiä tai käsin käytettäviä myllyjä. Materiaaleina on
 valittavissa kivimyllyjä ja metallisia jauhatusmekanismeja. Kivimyllyjä on
 suosittu näiden pienemmän lämmöntuoton ja siten jauhojen ravintoarvojen
-paremman säilyvyyden vuoksi. [1]
+paremman säilyvyyden vuoksi. [1, 2]
 
 ### Valmistajat
 
@@ -49,7 +49,7 @@ Sivusto: https://komo.bio/grain-flour/
 |-|-|
 |Akana|Jyvän uloin osa eli kuori. Ei kelpaa syötäväksi|
 |Jyvä|Heinäkasvien hedelmä. Yleinen  kutsumanimi viljakasvien siemenelle jota ei ole prosessoitu.|
-|Lese|Jyvästä ennen jauhamista erotettu kuoriosa. Erittäin kuitu- ja ravintoainepitoinen. [2]|
+|Lese|Jyvästä ennen jauhamista erotettu kuoriosa. Erittäin kuitu- ja ravintoainepitoinen. [3]|
 |Vihne|Viljakasvien kukan pitkä hiusmainen osa|
 |Suurimo|Kuorittuja ja mahdollisesti hieman hiottuja jyviä|
 |Ryyni|Kansankielinen nimitys suurimolle|
@@ -60,6 +60,7 @@ Sivusto: https://komo.bio/grain-flour/
 Viljelijät mielellään opastavat valinnoissa kun mainitset, että jyviä olisi tarkoitus
 ostaa jauhoksi jauhettavaksi kotikäyttöisellä myllyllä. Näin varmistat, että saat
 sopivia tuotteita toivottua lopputulosta varten.
+
 Ostaessa viljoja kotijauhatukseen on otettava pääsääntöisesti huomioon käyttötarkoitus,
 eli mitä haluaa valmistettavan. Eri viljalajikkeet ja niistä saatavat jalosteet,
 kuten esimerkiksi jauhot, eroavat leivontaominaisuuksiltaan, maultaan ja laadultaan
@@ -114,7 +115,9 @@ Kotimaisista viljoista ja jyvistä löytyy lisätietoja muun muassa
 
 [1] Kimbell, Vanessa; The Sourdourg School (2018)
 
-[2] https://www.leipatiedotus.fi/tietoa-leivasta/vilja/viljan-jyva.html
+[2] [Nutritional Characteristics of Organic, Freshly Stone-Ground, Sourdough and Conventional Breads](http://eap.mcgill.ca/publications/EAP35.htm)
+
+[3] https://www.leipatiedotus.fi/tietoa-leivasta/vilja/viljan-jyva.html
 
 ### Kontribuuttorit
 
