@@ -7,10 +7,9 @@ type: docs
 
 ## Ajankohtaista
 
-**15. kesäkuuta 2020** 
+**24. kesäkuuta 2020** 
 
-Leivinkivi näkee päivänvalon. Ensimmäisenä tietosivuna kirjoittelin yleistietoa [jauhojen
-kotijauhatuksesta](/docs/jauhot/kotijauhaminen) yhteistyössä Krannin tilan kanssa.
+Lisätty osio eri [taikinoiden vaivaus- ja sekoitusmenetelmistä](/docs/leivonta/juurileivonnan-sekoitus-ja-vaivaustekniikat).
 
 ## Kotileivontaa ja tiedon jyväsiä
 

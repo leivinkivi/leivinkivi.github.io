@@ -1,7 +1,7 @@
 ---
 menu:
   after:
-    name: blog
+    name: uutta
     weight: 10
-title: Blog
+title: Uutta
 ---
