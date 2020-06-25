@@ -8,9 +8,10 @@ description: "Kotileivontaa ja tiedon jyväsiä."
 
 ## Ajankohtaista
 
-**24. kesäkuuta 2020** 
+**25. kesäkuuta 2020** 
 
-Lisätty osio eri [taikinoiden vaivaus- ja sekoitusmenetelmistä](/docs/leivonta/juurileivonnan-sekoitus-ja-vaivaustekniikat).
+Lisätty osio vinkeille fermentaatioprosessiin 
+[hapanjuurileivontaan lämpimille keleille](/docs/leivonta/juurileivonnan-vinkit-lämpimille-keleille).
 
 ## Kotileivontaa ja tiedon jyväsiä
 
