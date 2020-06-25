@@ -1,5 +1,5 @@
 ---
 title: Yhteisöt ja toiminta
-weight: 1
+weight: 4
 bookFlatSection: true
 ---
