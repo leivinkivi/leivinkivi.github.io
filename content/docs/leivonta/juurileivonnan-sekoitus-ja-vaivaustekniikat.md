@@ -6,7 +6,7 @@ title: "Juurileivonnan sekoitus ja vaivaustekniikat"
 
 ## Gluteeni
 
-Valtaosa viljakasveista sisältävää luontaisesti gluteniinia ja gliadiinia.
+Valtaosa viljakasveista sisältää luontaisesti gluteniinia ja gliadiinia.
 Sekoittuessaan veden kanssa, näistä muodostuu [gluteenia](https://fi.wikipedia.org/wiki/Gluteeni),
 joka on proteiini. 
 
