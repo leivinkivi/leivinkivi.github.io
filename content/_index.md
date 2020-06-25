@@ -1,6 +1,7 @@
 ---
 title: Etusivu
 type: docs
+description: "Kotileivontaa ja tiedon jyväsiä."
 ---
 
 # Leivinkivi
@@ -22,7 +23,8 @@ Myös leivonnan tiede, kokeilu, perinteet ja historia, ja
 syy-seuraussuhteiden ymmärtäminen kiinnostaa paljon. Etsiessäni tietoa jauhojen jauhamiseen,
 kahlasin monia lähteitä verkossa. Mietin, voisiko harrasteleivontaan ja jauhojen 
 kotijauhantaan liittyvää tietoa viljoista, välineistä ja leivonnasta koostaa helposti 
-ja vapaasti saataville. Siitä se kipinä lähtikin blogille leivontakokemuksista ja tiedon metsästyksestä.
+ja vapaasti saataville ja muokattavaksi. Siitä se kipinä lähtikin blogille 
+leivontakokemuksista ja tiedon metsästyksestä.
 
 ### Sivustolta puuttuu jotain tai siellä on korjattavaa
 

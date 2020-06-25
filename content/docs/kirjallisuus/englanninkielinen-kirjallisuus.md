@@ -2,6 +2,7 @@
 title: "Englanninkielinen kirjallisuus"
 type: "docs"
 bookFlatSection: true
+description: Englanninkielistä leivontakirjallisuutta
 ---
 
 ### Tartine Bread

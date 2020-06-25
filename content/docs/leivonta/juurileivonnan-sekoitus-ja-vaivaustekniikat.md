@@ -1,5 +1,6 @@
 ---
 title: "Juurileivonnan sekoitus ja vaivaustekniikat"
+description: "Vaivaustekniikoita ja menetelmiä juurileivontaan on paljon eri tilanteisiin. Tehdään katsaus lyhyesti osaan tyypillisimmistä näistä."
 ---
 
 # Juurileivonnan sekoitus ja vaivaustekniikat

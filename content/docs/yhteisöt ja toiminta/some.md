@@ -2,6 +2,7 @@
 title: "Sosiaalinen media"
 type: "docs"
 bookFlatSection: true
+description: Leivontaa sosiaalisessa mediassa ja muissa verkkoyhteisöissä
 ---
 
 ## Facebook

@@ -2,6 +2,7 @@
 title: "Suomenkielinen kirjallisuus"
 type: "docs"
 bookFlatSection: true
+description: Suomenkielistä leivontakirjallisuutta
 ---
 
 # Suomenkielinen kirjallisuus

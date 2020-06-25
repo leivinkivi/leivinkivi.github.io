@@ -1,5 +1,6 @@
 ---
 title: Jauhojen jauhaminen kotona
+description: Tietoa jauhojen jauhamiseen kotona, myllyistä ja jyvistä sekä niiden hankinnasta. 
 weight: 1
 type: docs
 ---
@@ -15,9 +16,13 @@ ota yhteyttä.
 ## Lyhyesti
 
 * Vehnä ja ruis ovat paljasjyväisiä joten niitä voi käyttää jyvänä, suurimona tai helmenä.
-* Kaura ja ohra pitää olla kuorittu, eli näiden käyttö suurimona tai helmenä..
+* Kaura ja ohra pitää olla kuorittu, eli näiden käyttö suurimona tai helmenä.
+* Speltti pitää olla kuorittu. Näiden käyttö siis pääsääntöisesti suurimona tai 
+helmenä. Jyvänä vain jos akana on poistettu. Esimerkiksi Birkkalan Tila myy
+tämäntyyppisiä kevyesti kuorittuja spelttijyviä ilman akanaosaa.
 * Ostaessa jyviä suoraan tuottajalta on hyvä mainita että ne tulevat
-kotijauhatukseen.
+kotijauhatukseen. Näin varmistut, että saat sopivia lajiteltuja jyviä
+kuluttajakäyttöisille välineille.
 
 ## Kotikäyttöiset myllyt
 
@@ -84,6 +89,7 @@ suurimona tai helmenä, eli jyvinä joista kuorikerrokset on poistettu.
 |Vehnä|Ei tarvetta|Jyvä tai suurimo||
 |Ruis|Ei tarvetta|Jyvä tai suurimo||
 |Ohra|Akana oltava poistettu|Helmi tai suurimo||
+|Speltti|Akana oltava poistettu|Helmi tai suurimo|Birkkalan tila myy myös spelttijyviä, joista on akana poistettu. Tästä saa täysjyvää jauhettua kotiolosuhteissa.|
 |Kaura|Akana oltava poistettu|Helmi tai suurimo|Muista viljoista poiketen kaurasta jää myllynkiviin hieman rasvaa. Suositeltavaa onkin, että kauran jauhamisen jälkeen jauhetaan vielä päätteeksi riisiä tai ruista, tai useampaa viljaa jauhaessa aloitetaan kauralla ja tämän jälkeen jauhetaan muut viljat.|
 
 ## Jyviä myyvät maatilat ja myllyt
