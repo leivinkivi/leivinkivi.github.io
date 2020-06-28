@@ -13,11 +13,29 @@ description: Englanninkielistä leivontakirjallisuutta
 **Sivusto**: https://tartinebakery.com/\
 **Aihepiirit**: `oppaat`, `reseptit`, `tietokirjat`
 
-### Bread Science
+Kirja San Fransiscon Tartine -leipomon perustajalta hapanjuurileivän leivonnasta.
+Opastus- ja tietokirja leivän leivonnan maailmaan.
+
+### New World Sourdough
+
+**Kirjoittanut**: Bryan Ford\
+**Kustantaja**: Quarry Books\
+**ISBN**: 9781631598708\
+**Sivusto**: https://www.artisanbryan.com/\
+**Aihepiirit**: `oppaat`, `reseptit`, `tietokirjat`, `tekniikat`, `rustiikki`
+
+Kirja, joka pyrkii reseptien ja tarinoiden jakamisen lisäksi lukijaa omaksumaan
+minimalistisempaa leiväntekoprosessia, joka suosii luovia ratkaisuja ja kokeiluja
+makujen ja aromien lisäksi. Rustiikki, makumaailma ja rohkeasti revityt leivät ovat keskiössä.
+
+### Bread Science: The Chemistry and Craft of Making Bread
 **Kirjoittanut**: Emily Buehler\
 **Kustantaja**: Two Blue Books\
 **Sivusto**: https://www.twobluebooks.com/bread-science/\
 **Aihepiirit**: `tietokirjat`
+
+Tietokirja leivonnan biokemiasta. Kirjassa esitellään leivonnan prosessin eri vaiheet
+ja tieteellistä pohjaa näiden vaikutuksesta ja taustoista.
 
 ### The Sourdough School
 
@@ -26,3 +44,7 @@ description: Englanninkielistä leivontakirjallisuutta
 **ISBN**: 9780857833662\
 **Sivusto**: https://www.sourdough.co.uk/the-sourdough-school-book/\
 **Aihepiirit**: `oppaat`, `reseptit`, `tietokirjat`
+
+Kimbell esittelee kirjassaan hapanjuurileivonnan biokemiaa, hapanjuurileivonnan 
+fermentaatioprosessin tuomia terveysvaikutuksia ja sen syitä, leivontaprosessia ja 
+tämän eri vaiheiden ymmärrystä sekä reseptejä.
