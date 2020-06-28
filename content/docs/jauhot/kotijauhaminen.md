@@ -37,13 +37,18 @@ paremman säilyvyyden vuoksi. [1, 2]
 
 #### Mockmill
 
-Saksalainen myllyvalmistaja. Mallistosta löytyy sähkökäyttöisiä myllyjä sekä
-joihinkin yleiskoneisiin sopiva malli. Kaikki myllyt ovat kivimyllyjä.\
+Saksalainen myllyvalmistaja. Yrityksen perustaja Wolfgang Mock alkoi kehittää 1970-luvulla
+sähkötoimista pöytämallista kivimyllyä ja heidän tavoitteenaan onkin tuoda jokaiseen
+kotiin mahdollisuus tuoreiden jauhojen jauhamiseen. Mallistosta löytyy 
+sähkökäyttöisiä myllyjä ja yleiskoneisiin sopiva malli. 
+Kaikki Mockmill-myllyt ovat kivimyllyjä.\
 Sivusto: https://mockmill.com/
 
 #### Komo
 
-Saksalainen myllyvalmistaja.\
+Saksalainen myllyvalmistaja ja perheyritys. Yritys on valmistanut myllyjä 1986 lähtien.
+Komo painottaa tuotteissaan ja tuotannossaan ekologisuutta ja kestävän kehityksen 
+periaatteita.\
 Sivusto: https://komo.bio/grain-flour/
 
 ## Viljat ja näiden jauhaminen kotona
