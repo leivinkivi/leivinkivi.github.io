@@ -1,9 +1,10 @@
 ---
-title: "Juurileivonnan sekoitus ja vaivaustekniikat"
-description: "Vaivaustekniikoita ja menetelmiä juurileivontaan on paljon eri tilanteisiin. Tehdään katsaus lyhyesti osaan tyypillisimmistä näistä."
+title: "Juurileivonnan sekoitus-, vaivaus- ja muokkaustekniikat"
+description: "Vaivaus- ja muokkaustekniikoita ja menetelmiä juurileivontaan on paljon eri tilanteisiin. Tehdään katsaus lyhyesti osaan tyypillisimmistä näistä."
+type: docs
 ---
 
-# Juurileivonnan sekoitus ja vaivaustekniikat
+# Juurileivonnan sekoitus-, vaivaus- ja muokkaustekniikat
 
 ## Gluteeni
 
@@ -11,7 +12,7 @@ Valtaosa viljakasveista sisältää luontaisesti gluteniinia ja gliadiinia.
 Sekoittuessaan veden kanssa, näistä muodostuu [gluteenia](https://fi.wikipedia.org/wiki/Gluteeni),
 joka on proteiini. 
 
-Taikinan vaivaaminen ja venyttäminen auttaa gluteenirakenteiden kehittymistä. 
+Taikinan muokkaaminen, vaivaaminen ja venyttäminen auttaa gluteenirakenteiden kehittymistä. 
 Hajallaan olleet ja järjestäytymättömät proteiinirakenteet alkavat muotoutua ja jäsentyä
 kimmoisaksi, venyväksi ja joustavaksi verkostoksi aminohappoketjuiksi sitoutuen.
 Muodostunutta gluteenia kutsutaan sitkoksi. Sitkon laatu ja tämän muodostuskyky riippuu useista tekijöistä.
@@ -34,7 +35,7 @@ harmaalta vaikuttava taikina. [1](#viittaukset)
 
 ## Menetelmät
 
-Eri sekoitus- ja vaivausmenetelmiä on ajan saatossa muodostunut paljon.
+Eri muokkaus- ja vaivausmenetelmiä on ajan saatossa muodostunut paljon.
 Valinta näiden välillä usein perustuu henkilökohtaisiin preferensseihin,
 kokeiluihin, ja myös taikinan käsiteltävyyteen perustuen esimerkiksi
 vesi-jauhosuhteeseen taikinassa (kutsutaan myös hydraatioksi).
@@ -81,7 +82,7 @@ itsensä päälle. Alkuperäinen päällinpinta jää näin edelleen päällimm�
 
 ### Rhubaud -menetelmä
 
-Kevyt vaivaus- ja sekoitusmenetelmä korkean hydraation taikinoiden sekoittamiseen, missä taikinaa 
+Kevyt muokkaus- ja sekoitusmenetelmä korkean hydraation taikinoiden sekoittamiseen, missä taikinaa 
 kevyesti sormilla nostellen poimitaan ja venytetään kevyesti useita minuutteja 
 jatkuvasti toistaen.
 
