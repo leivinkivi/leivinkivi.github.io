@@ -13,19 +13,29 @@ description: "Kotileivontaa ja tiedon jyväsiä."
 Lisätty osio vinkeille fermentaatioprosessiin 
 [hapanjuurileivontaan lämpimille keleille](/docs/leivonta/juurileivonnan-vinkit-lämpimille-keleille).
 
+{{< columns >}}
+
 ## Kotileivontaa ja tiedon jyväsiä
 
-Hurahdin hapanjuurileivontaan vuoden 2016 tienoilla ja hiljattain keväällä 2020 vieläpä
-enenevissä määrin. Tutustuin myös jauhojen jauhamiseen kotioloissa, ja tämä veikin
-heti mukanaan. Tuoreiden vastajauhettujen jauhojen tuoksu ja näistä tehtyjen leipien
-maku koukutti välittömästi.
+Tietoa ja muistiinpanoja leivonnasta ja hapanjuurien maailmasta.
+Kokeiluja viljojen ja jauhojen äärellä kotikeittiössä.
+Leivonnan tiedettä, perinteitä ja historiaa uteliaan
+insinöörin, amatöörikotileipurin ja harrastelijan näkökulmasta.
+Syy-seuraussuhteita oppimassa ja leivonnan juurilla.
 
-Myös leivonnan tiede, kokeilu, perinteet ja historia, ja 
-syy-seuraussuhteiden ymmärtäminen kiinnostaa paljon. Etsiessäni tietoa jauhojen jauhamiseen,
-kahlasin monia lähteitä verkossa. Mietin, voisiko harrasteleivontaan ja jauhojen 
-kotijauhantaan liittyvää tietoa viljoista, välineistä ja leivonnasta koostaa helposti 
-ja vapaasti saataville ja muokattavaksi. Siitä se kipinä lähtikin blogille 
-leivontakokemuksista ja tiedon metsästyksestä.
+<<<<<<< HEAD
+Blogi, muistiinpanoja, wiki - ja jotain siltä väliltä - 
+=======
+Blogi, muistiinpanoja, harrastelua, leipuripedia - ja jotain siltä väliltä - 
+>>>>>>> 4983a77... Sivun asiasisällön harrasteluluonteen korostusta
+[omistettuna kotileivonnalle](/docs/info/rakkaudesta-leivontaan)
+kokemuksista ja tiedon metsästyksestä.
+
+<--->
+
+![](/etusivuleipa.png)
+
+{{< /columns >}}
 
 ### Sivustolta puuttuu jotain tai siellä on korjattavaa
 
