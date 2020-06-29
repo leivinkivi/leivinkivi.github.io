@@ -1,29 +1,30 @@
 ---
 title: "Juurileivonnan vinkit lämpimille keleille"
-description: "Huh helteitä! Hapanjuurileivonnassa ympäristön olosuhteet ovat tärkeässä roolissa. Tekeytymisen nopeuteen voi kuitenkin vaikuttaa. Koostettuna joitain vinkkejä."
+description: "Huh helteitä! Hapanjuurileivonnassa ympäristön olosuhteet ovat tärkeässä roolissa. Fermentaation nopeuteen voi kuitenkin vaikuttaa. Koostettuna joitain vinkkejä."
 ---
 
 # Vinkit helteille hapanjuurileivontaan
 
 Leivonnan olosuhteet vaikuttavat merkittävästi hapanjuurileivonnassa
-taikinan tekeytymiseen, eli fermentoitumiseen, nopeuttaen tätä jopa
-huomattavasti. Jauhoista, viljavalinnoista, veden lämpötilasta, 
-juuren määrästä ja olosuhteista riippuen tekeytyminen voi olla jopa 
-puolet nopeampaa. [[1]](#Lähteet) Aktiivisimmillaan tyypilliset hapanjuurihiivat
-ovat 26-28C -asteessa. [[1]](#Lähteet)
+taikinan fermentaatioon, toisinaan nopeuttaen tätä jopa huomattavasti. 
+Suomen kielessä tästä vaiheesta on käytetty nimitystä _ensikohotus_ (mm. [[1]](#Lähteet)). 
+Englannin kielessä käytetään nimityksiä _bulk fermentation_ tai vain _fermentation_. 
+Jauhoista, viljavalinnoista, veden lämpötilasta, juuren määrästä ja olosuhteista riippuen 
+ensikohotus voi olla jopa puolet nopeampaa. [[2]](#Lähteet) Aktiivisimmillaan tyypilliset 
+hapanjuurihiivat ovat 26-28C -asteessa. [[2]](#Lähteet)
 
-Lämpötilasta johtuvaan tekeytymisen nopeuteen voi vaikuttaa hieman, kuten esimerkiksi raaka-aineiden
-lämpötilalla, kohotusympäristön vaihtamisella ja tekeytymisprosessin lyhentämisellä.
+Lämpötilasta johtuvaan ensikohotuksen nopeuteen voi vaikuttaa hieman, kuten esimerkiksi raaka-aineiden
+lämpötilalla, kohotusympäristön vaihtamisella ja fermentaatioprosessin lyhentämisellä.
 
 * Käytä mahdollisimman kylmää vettä. Tarvittaessa jopa jääkaapissa viilennettyä
 vettä tai jäämurskaa.
-* Lyhennä arvioitua tekeytymisaikaa - leivän voi olosuhteiden puitteissa myös tehdä nopeammin.
+* Lyhennä arvioitua fermentaatiolle annettua kohotusaikaa - leivän voi olosuhteiden puitteissa myös tehdä nopeammin.
 Tämä vaatii vain aktiivista seurantaa ja aistinvaraista arviointia.
 * Vähennä juuren määrää taikinassa. Jos leipurinprosentteina juuren määrä on
 20 tai 30 prosenttia, vähennä tätä 10 tai 15 prosenttiin ja seuraa miten se vaikuttaa
-taikinan tekeytymiseen.
-* Etsi viileämpi paikka taikinan tekeytymiselle. Jopa jääkaappia voi hyödyntää
-tekeytymisen hidastamiseksi.
+taikinan ensikohotukseen.
+* Etsi viileämpi paikka taikinan kohotukselle. Jopa jääkaappia voi hyödyntää
+fermentaation hidastamiseksi.
 
 ## Lähteet
 
@@ -33,5 +34,7 @@ tekeytymisen hidastamiseksi.
 
 ### Viittaukset
 
-[1] Weekend bakery, Tips on dough temperature, https://www.weekendbakery.com/posts/a-few-tips-on-dough-temperature/
+[1] Kuusela, E.; Leipävallankumous (2019)
+
+[2] Weekend bakery; Tips on dough temperature; https://www.weekendbakery.com/posts/a-few-tips-on-dough-temperature/
 
