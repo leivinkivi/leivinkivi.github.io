@@ -23,11 +23,7 @@ Leivonnan tiedettä, perinteitä ja historiaa uteliaan
 insinöörin, amatöörikotileipurin ja harrastelijan näkökulmasta.
 Syy-seuraussuhteita oppimassa ja leivonnan juurilla.
 
-<<<<<<< HEAD
-Blogi, muistiinpanoja, wiki - ja jotain siltä väliltä - 
-=======
 Blogi, muistiinpanoja, harrastelua, leipuripedia - ja jotain siltä väliltä - 
->>>>>>> 4983a77... Sivun asiasisällön harrasteluluonteen korostusta
 [omistettuna kotileivonnalle](/docs/info/rakkaudesta-leivontaan)
 kokemuksista ja tiedon metsästyksestä.
 
