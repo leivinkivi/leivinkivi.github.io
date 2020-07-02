@@ -122,6 +122,10 @@ Birkkalan tila\
 Suomusjärvi\
 https://www.birkkala.com/
 
+Strömsbergin mylly\
+Porvoo\
+https://fi-fi.facebook.com/StromsberginMylly
+
 ## Lisätietoa ja lähteitä
 
 Kotimaisista viljoista ja jyvistä löytyy lisätietoja muun muassa 
