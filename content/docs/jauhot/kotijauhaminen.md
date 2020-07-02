@@ -97,23 +97,10 @@ suurimona tai helmenä, eli jyvinä joista kuorikerrokset on poistettu.
 |Speltti|Akana oltava poistettu|Helmi tai suurimo|Birkkalan tila myy myös spelttijyviä, joista on akana poistettu. Tästä saa täysjyvää jauhettua kotiolosuhteissa.|
 |Kaura|Akana oltava poistettu|Helmi tai suurimo|Muista viljoista poiketen kaurasta jää myllynkiviin hieman rasvaa. Suositeltavaa onkin, että kauran jauhamisen jälkeen jauhetaan vielä päätteeksi riisiä tai ruista, tai useampaa viljaa jauhaessa aloitetaan kauralla ja tämän jälkeen jauhetaan muut viljat.|
 
-### Sihtaaminen
+## Sihtaaminen
 
-Kokonaisia jyviä jauhaessa lopputuote sisältää kaikki jyvän ainekset. 
-Näistä karkeimmat kuoriosat - leseet - jäävät jauhoihin ja vaikuttavat gluteeniverkon
-muodostumiseen. Leseet ovat kuitu- ja ravintoainepitoisia, mutta taikinassa nämä
-leikkaavat herkät gluteenirakenteet johtaen myös tiiviimpään lopputulokseen.
-
-Hienojakoisempaa ja pehmeämpää jauhoa halutessa, jauhot on myös mahdollista 
-sihdata. Tässä prosessissa ne ajetaan tiheän siivilän läpi astiaan. 
-Hienommat jyvän osat jäävät astiaan ja karkeammat leseet jäävät sihtiin. Näin
-kotioloissa pystyy valmistamaan helposti hienojakoisempaa _sihtijauhoa_.
-
-Sihdatut leseet voi tämän jälkeen käyttää eri tavoin. Leseet voi
-esimerkiksi eritellä omaan autolyysivaiheeseen tai kaltata ne, ja lisätä
-taikinaan taitteluiden yhteydessä näiden pehmentämisen jälkeen kun taikina
-on muuten jo saanut vahvuutta ja rakennetta. Sihdattuja ja rouhittuja
-leseitä voi myös käyttää muussakin ruoanlaitossa.
+Kokonaisia jyviä jauhaessa lopputuote sisältää kaikki jyvän ainekset.
+Toisinaan lopputuotteelta toivotaan hienojakoisempaa rakennetta. Katso [sihtaaminen](/docs/jauhot/sihtaaminen).
 
 ## Jyviä myyvät maatilat ja myllyt
 
