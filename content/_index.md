@@ -8,10 +8,9 @@ description: "Kotileivontaa ja tiedon jyväsiä."
 
 ## Ajankohtaista
 
-**25. kesäkuuta 2020** 
+**3. heinäkuuta 2020** 
 
-Lisätty osio vinkeille fermentaatioprosessiin 
-[hapanjuurileivontaan lämpimille keleille](/docs/leivonta/juurileivonnan-vinkit-lämpimille-keleille).
+Lisätty tietosivu [autolyysivaiheesta](/docs/hapanjuurileivonta/autolyysi-eli-tekeytyminen) ja uudelleenjäsennelty sivuston rakennetta.
 
 {{< columns >}}
 
