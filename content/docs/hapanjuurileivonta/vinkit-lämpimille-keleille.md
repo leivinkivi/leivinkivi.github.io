@@ -1,6 +1,7 @@
 ---
-title: "Juurileivonnan vinkit lämpimille keleille"
+title: "Vinkit lämpimille keleille"
 description: "Huh helteitä! Hapanjuurileivonnassa ympäristön olosuhteet ovat tärkeässä roolissa. Fermentaation nopeuteen voi kuitenkin vaikuttaa. Koostettuna joitain vinkkejä."
+type: docs
 ---
 
 # Vinkit helteille hapanjuurileivontaan

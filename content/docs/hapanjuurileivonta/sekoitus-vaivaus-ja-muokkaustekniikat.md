@@ -1,5 +1,5 @@
 ---
-title: "Juurileivonnan sekoitus-, vaivaus- ja muokkaustekniikat"
+title: "Sekoitus-, vaivaus- ja muokkaustekniikat"
 description: "Vaivaus- ja muokkaustekniikoita ja menetelmiä juurileivontaan on paljon eri tilanteisiin. Tehdään katsaus lyhyesti osaan tyypillisimmistä näistä."
 type: docs
 ---

@@ -7,4 +7,4 @@ weight: 10
 ---
 
 Lisätty osio vinkeille fermentaatioprosessiin 
-[hapanjuurileivontaan lämpimille keleille](/docs/leivonta/juurileivonnan-vinkit-lämpimille-keleille).
+[hapanjuurileivontaan lämpimille keleille](/docs/hapanjuurileivonta/vinkit-lämpimille-keleille).

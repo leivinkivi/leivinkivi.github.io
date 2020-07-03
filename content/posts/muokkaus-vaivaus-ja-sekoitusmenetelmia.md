@@ -6,4 +6,4 @@ title: Muokkaus-, vaivaus- ja sekoitusmenetelmiä
 weight: 10
 ---
 
-Lisätty osio eri [taikinoiden vaivaus- ja sekoitusmenetelmistä](/docs/leivonta/juurileivonnan-muokkaus-sekoitus-ja-vaivaustekniikat).
+Lisätty osio eri [taikinoiden vaivaus- ja sekoitusmenetelmistä](/docs/hapanjuurileivonta/sekoitus-vaivaus-ja-muokkaustekniikat).
