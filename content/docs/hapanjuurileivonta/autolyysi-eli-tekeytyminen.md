@@ -96,7 +96,7 @@ ja lämpötiloja [[3, 4, 5, 6]](#lähteet):
 
 * **20min - 3h**: Vaaleat ja hienojakoiset jauhot. Esimerkiksi
 puolikarkea vehnä
-* **1h - 5h**: Vahvat runsasproteiiniset jauhot ja täysjyväjauhot
+* **1h - 5h**: Vahvat ja runsasproteiiniset jauhot sekä täysjyväjauhot
 * **ei autolyysiä**: Ruisjauhoille ei ole suositeltu autolyysiä tämän
 korkean amylaasientsyymiaktiivisuuden ja fermentaationopeuden vuoksi [[3]](#lähteet).
 Monissa resepteissä kuitenkin ruisjauhot ovat olleet mukana lyhyemmissäkin autolyyseissä
