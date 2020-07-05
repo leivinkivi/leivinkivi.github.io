@@ -80,7 +80,7 @@ itsensä päälle. Alkuperäinen päällinpinta jää näin edelleen päällimm�
 
 {{< youtube h9zWEupVMFs >}}
 
-### Rhubaud -menetelmä
+### Rubaud -menetelmä
 
 Kevyt muokkaus- ja sekoitusmenetelmä korkean hydraation taikinoiden sekoittamiseen, missä taikinaa 
 kevyesti sormilla nostellen poimitaan ja venytetään kevyesti useita minuutteja 
