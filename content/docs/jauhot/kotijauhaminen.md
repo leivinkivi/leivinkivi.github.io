@@ -15,14 +15,14 @@ ota yhteyttä.
 
 ## Lyhyesti
 
-* Vehnä ja ruis ovat paljasjyväisiä joten niitä voi käyttää jyvänä, suurimona tai helmenä.
-* Kaura ja ohra pitää olla kuorittu, eli näiden käyttö suurimona tai helmenä.
-* Speltti pitää olla kuorittu. Näiden käyttö siis pääsääntöisesti suurimona tai 
-helmenä. Jyvänä vain jos akana on poistettu. Esimerkiksi Birkkalan Tila myy
-tämäntyyppisiä kevyesti kuorittuja spelttijyviä ilman akanaosaa.
+* Vehnä ja ruis ovat nykyisin paljasjyväisiä joten niitä voi käyttää helposti jyvänä, suurimona tai helmenä.
+* Kaura ja ohra kuorittuna kuten suurimona tai helmenä. Jyvänä myös jos akana 
+poistettu (esimerkiksi puinnin yhteydessä tai kevyesti kuorittuna)
+* Speltti kuorittuna kuten suurimona tai helmenä. Jyvänä jos akana on poistettu
+Esimerkiksi Birkkalan Tila myy tämäntyyppisiä kevyesti kuorittuja spelttijyviä ilman akanaosaa
 * Ostaessa jyviä suoraan tuottajalta on hyvä mainita että ne tulevat
-kotijauhatukseen. Näin varmistut, että saat sopivia lajiteltuja jyviä
-kuluttajakäyttöisille välineille.
+kotijauhatukseen. Näin varmistut, että saat sopivia puhdistettuja, lajiteltuja ja akanattomia jyviä
+kuluttajakäyttöisille välineille
 
 ## Kotikäyttöiset myllyt
 
@@ -53,16 +53,18 @@ Sivusto: https://komo.bio/grain-flour/
 
 ## Viljat ja näiden jauhaminen kotona
 
-### Yleistä sanastoa viljoista kotijauhatuksen tarpeisiin
+### Terminologiaa
+
+Yleistä sanastoa viljoista kotijauhatuksen tarpeisiin
 
 |Termi|Kuvaus|
 |-|-|
-|Akana|Jyvän uloin osa eli kuori. Ei kelpaa syötäväksi|
-|Jyvä|Heinäkasvien hedelmä. Yleinen  kutsumanimi viljakasvien siemenelle jota ei ole prosessoitu.|
-|Lese|Jyvästä ennen jauhamista erotettu kuoriosa. Erittäin kuitu- ja ravintoainepitoinen. [3]|
+|Akana|Jyvän uloin osa. Suomumainen. Irtoaa yleensä puitaessa, mutta kiinnittymisen tiukkuudessa on eroja. Esimerkiksi vehnästä irtoaa helposti (paljasjyväinen), mutta ohrasta irroittaminen on hankalaa [[3]](#lähteet). Savolais- ja kaakkoismurteissa akana tarkoittaa jyvästä jauhettaessa irtoavaa kuoriosaa [[4]](#lähteet). Ei kelpaa syötäväksi.|
+|Jyvä|Heinäkasvien hedelmä. Yleinen kutsumanimi viljakasvien siemenelle jota ei ole prosessoitu.|
+|Lese|Jyvästä ennen jauhamista erotettu kuoriosa. Erittäin kuitu- ja ravintoainepitoinen. [[5]](#lähteet)|
 |Vihne|Viljakasvien kukan pitkä hiusmainen osa|
-|Suurimo|Kuorittuja ja mahdollisesti hieman hiottuja jyviä|
-|Ryyni|Kansankielinen nimitys suurimolle|
+|Suurimo|Kuorittuja ja mahdollisesti hieman hiottuja ja rikottuja jyviä|
+|Ryyni|Puhekielinen nimitys suurimolle|
 |Helmi|Hiottu suurimo|
 
 ### Huomioonotettavaa ostettaessa
@@ -82,19 +84,15 @@ joukosta erotellaan muun muassa mahdollisesti joukkoon jääneitä aineksia kute
 lehtiä tai vihneitä. Näin jäljelle jää ainoastaan jauhatukseen halutut jyvät.
 
 **Kuorinnalla** tarkoitetaan jyvien ulkokerrosten poistamista. Osalla vehnäkasveja on
-myös jyvän kuoren ulkoinen kerros, jota kutsutaan akanaksi. Tämä on pääsääntöisesti
+myös jyvän kuoren ulkoinen kerros, jota kutsutaan akanaksi. Tämä on
 ihmisravinnoksi kelpaamatonta ja onkin poistettava ennen jauhoiksi jauhamista.
-
-Osaa viljoista voi käyttää sellaisenaan jyvänä, kuten vehnää ja ruista. Tällöin
-jauhoista tulee tuttua täysjyvää. Osa viljoista taas on soveltuu kotijauhatukseen
-suurimona tai helmenä, eli jyvinä joista kuorikerrokset on poistettu.
 
 |Vilja|Kuorinta|Käyttö kotimyllyssä|Muita huomioita|
 |-|-|-|-|
-|Vehnä|Ei tarvetta|Jyvä tai suurimo||
-|Ruis|Ei tarvetta|Jyvä tai suurimo||
-|Ohra|Akana oltava poistettu|Helmi tai suurimo||
-|Speltti|Akana oltava poistettu|Helmi tai suurimo|Birkkalan tila myy myös spelttijyviä, joista on akana poistettu. Tästä saa täysjyvää jauhettua kotiolosuhteissa.|
+|Vehnä|Ei tarvetta|Jyvä, suurimo tai helmi|Paljasjyväinen, akana irtoaa helposti jo puinnin yhteydessä.|
+|Ruis|Ei tarvetta|Jyvä, suurimo tai helmi|Paljasjyväinen, akana irtoaa helposti jo puinnin yhteydessä.|
+|Ohra|Akana oltava poistettu|Helmi tai suurimo (tai jyvä, kts. huomiot)|Jotkin myllyt ja tilat myyvät myös [akanattomina ja hieman kuorittuina jyvinä](#terminologiaa). Tästä saa täysjyvää jauhettua kotiolosuhteissakin.|
+|Speltti|Akana oltava poistettu|Helmi tai suurimo (tai jyvä, kts. huomiot)|Birkkalan tila myy myös spelttijyviä, joista on akana poistettu ja jyviä on kevyesti kuorittu. Tästä saa täysjyvää jauhettua kotiolosuhteissakin.|
 |Kaura|Akana oltava poistettu|Helmi tai suurimo|Muista viljoista poiketen kaurasta jää myllynkiviin hieman rasvaa. Suositeltavaa onkin, että kauran jauhamisen jälkeen jauhetaan vielä päätteeksi riisiä tai ruista, tai useampaa viljaa jauhaessa aloitetaan kauralla ja tämän jälkeen jauhetaan muut viljat.|
 
 ## Sihtaaminen
@@ -105,6 +103,14 @@ Toisinaan lopputuotteelta toivotaan hienojakoisempaa rakennetta. Katso [sihtaami
 ## Jyviä myyvät maatilat ja myllyt
 
 ### Myllyt
+
+#### Pohjois-Pohjanmaa
+
+Tyrnävän mylly\
+Tyrnävä\
+https://tyrnavanmylly.fi/
+
+#### Uusimaa
 
 Töllin Mylly\
 Nummi-Pusula\
@@ -126,10 +132,14 @@ Strömsbergin mylly\
 Porvoo\
 https://fi-fi.facebook.com/StromsberginMylly
 
-## Lisätietoa ja lähteitä
+## Lähteet
+
+### Lisätietoa
 
 Kotimaisista viljoista ja jyvistä löytyy lisätietoja muun muassa 
 [Leipätiedotuksen](https://www.leipatiedotus.fi/tietoa-leivasta/vilja/kotimaiset-viljat.html) sivuilta.
+
+[Kotimaisten kielten keskus, Jyviä ja akanoita](https://www.kotus.fi/nyt/kolumnit_artikkelit_ja_esitelmat/kieli-ikkuna_%281996_2010%29/jyvia_ja_akanoita)
 
 ### Viittaukset
 
@@ -137,7 +147,11 @@ Kotimaisista viljoista ja jyvistä löytyy lisätietoja muun muassa
 
 [2] [Nutritional Characteristics of Organic, Freshly Stone-Ground, Sourdough and Conventional Breads](http://eap.mcgill.ca/publications/EAP35.htm)
 
-[3] https://www.leipatiedotus.fi/tietoa-leivasta/vilja/viljan-jyva.html
+[3] [Tieteen termipankki, Akana](https://tieteentermipankki.fi/wiki/Kasvitiede:akana)
+
+[4] [Kotimaisten kielten keskus, Jyviä ja akanoita](https://www.kotus.fi/nyt/kolumnit_artikkelit_ja_esitelmat/kieli-ikkuna_%281996_2010%29/jyvia_ja_akanoita)
+
+[5] https://www.leipatiedotus.fi/tietoa-leivasta/vilja/viljan-jyva.html
 
 ### Kontribuuttorit
 
