@@ -85,14 +85,13 @@ tämän joustavamman ja venyvämmän rakenteen vuoksi [[4]](#lähteet)
 
 ## Kesto
 
-Yleisesti ottaen autolyysin kestona voidaan pitää 20-60 minuuttia [[4,5]](#lähteet),
+Autolyysin kestona voidaan pitää esimerkiksi 20-60 minuuttia [[4,5]](#lähteet),
 mutta myös jauhoilla ja näiden vahvuudella on vaikutusta
-suositeltavaan pituuteen. Esimerkiksi enemmän täysjyvää sisältäviä
+suositeltavaan pituuteen. Myös enemmän täysjyvää sisältäviä
 jauhoja voi pitää tekeytymässä useita tunteja karkeampien ainesosien
 pehmenemiseksi.
 
-Yleisesti eri lähteissä on havaittu seuraavia suurinpiirteisiä aikoja
-ja lämpötiloja [[3, 4, 5, 6]](#lähteet):
+Yleisesti eri lähteissä on havaittu seuraavia suurinpiirteisiä aikoja [[3, 4, 5, 6]](#lähteet):
 
 * **20min - 3h**: Vaaleat ja hienojakoiset jauhot. Esimerkiksi
 puolikarkea vehnä
