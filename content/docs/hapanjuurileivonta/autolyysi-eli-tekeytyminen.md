@@ -99,8 +99,8 @@ puolikarkea vehnä
 * **1h - 5h**: Vahvat ja runsasproteiiniset jauhot sekä täysjyväjauhot
 * **ei autolyysiä**: Ruisjauhoille ei ole suositeltu autolyysiä tämän
 korkean amylaasientsyymiaktiivisuuden ja fermentaationopeuden vuoksi [[3]](#lähteet).
-Monissa resepteissä kuitenkin ruisjauhot ovat olleet mukana lyhyemmissäkin autolyyseissä
-etenkin useamman viljan leivissä.
+Ruis ei myöskään muodosta paljoa sitkoa. Monissa resepteissä kuitenkin
+ruisjauhot ovat olleet mukana lyhyemmissäkin autolyyseissä etenkin useamman viljan leivissä.
 * Eri jauhosekoituksilla on myös improvisoitu autolyysin kestoa
 puolesta tunnista noin kahteen tuntiin
 * Heikon proteiinin jauhot eivät hyödy autolyysistä tai sen voi pitää
