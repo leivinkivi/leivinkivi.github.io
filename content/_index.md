@@ -8,9 +8,9 @@ description: "Kotileivontaa ja tiedon jyväsiä."
 
 ## Ajankohtaista
 
-**3. heinäkuuta 2020** 
+**8. heinäkuuta 2020** 
 
-Lisätty tietosivu [autolyysivaiheesta](/docs/hapanjuurileivonta/autolyysi-eli-tekeytyminen) ja uudelleenjäsennelty sivuston rakennetta.
+Lisätty tietosivu [uuneista ja paisto-olosuhteista](/docs/hapanjuurileivonta/uuniolosuhteet-ja-paistotekniikat).
 
 {{< columns >}}
 
