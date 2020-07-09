@@ -39,7 +39,7 @@ ja vinkkejään leivontaan.
 
 ### Leivonnan teknologia: Ruokaleipä
 **Kirjoittanut**: Hannu Salovaara, Ari Ignatius, Aimo Jussila, Maija Hurri-Martikainen\
-**KUstantaja**: Suomen leipuriliitto\
+**Kustantaja**: Suomen leipuriliitto\
 **ISBN**: 9789529386208\
 **Sivusto**: https://www.leipuriliitto.fi/?x171034=563472\
 **Aihepiirit**: `tietokirjat`, `teknologia`
