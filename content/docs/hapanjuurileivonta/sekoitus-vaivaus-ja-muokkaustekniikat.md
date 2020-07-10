@@ -23,10 +23,11 @@ harmaalta vaikuttava taikina. [1](#viittaukset)
 
 ## Lyhyesti
 
-* Menetelmää olennaisempaa lopputuloksen kannalta on kokonaisvaltaisen prosessin 
-  onnistuminen juuren hyvinvoinnista fermentoitumiseen
-  ja paisto-olosuhteisiin saakka.
-* Menetelmät voi valita oman mieltymyksen mukaan sekä ottaen huomioon esimerkiksi 
+* Yksittäistä muokkaus- ja vaivaustapaa olennaisempaa on sen tarkoitus - taikinan 
+käsittely sitkon rakentumisen auttamiseen käsin tai koneella. 
+* Erilaisiin lopputuloksiin vaikuttaa kokonaisvaltaisesti leivonta kaikkine vaiheineen
+juuren hyvinvoinnista ensikohotukseen (fermentointiin) ja paistamiseen asti.
+* Tapoja voi kokeilla ja valita oman mieltymyksen mukaan sekä ottaen huomioon esimerkiksi 
   taikinan koostumuksen ja mahdollisesti muiden ainesten, kuten täytteiden lisäämisen.
 * Hyvän sitkon merkkejä: Taikina on kimmoisa, venyvä, joustava, ei tartu. Helppo käsitellä.
 * Rikkoontuneen tai huonon sitkon merkkejä (esimerkiksi yli vaivaaminen tai ylifermentointi):
@@ -36,16 +37,19 @@ harmaalta vaikuttava taikina. [1](#viittaukset)
 ## Menetelmät
 
 Eri muokkaus- ja vaivausmenetelmiä on ajan saatossa muodostunut paljon.
-Valinta näiden välillä usein perustuu henkilökohtaisiin preferensseihin,
+Myös vaivaamattomat leipätaikinat ovat oma juttunsa.
+Valinta näiden välillä usein perustuu henkilökohtaisiin mieltymyksiin,
 kokeiluihin, ja myös taikinan käsiteltävyyteen perustuen esimerkiksi
-vesi-jauhosuhteeseen taikinassa (kutsutaan myös hydraatioksi).
+vesi-jauhosuhteeseen taikinassa (kutsutaan myös hydraatioksi) tai
+vaikkapa täytteiden lisäämiseen eri tavoin.
 
 Mitä korkeampi hydraatio, sitä helpommaksi tietyt menetelmät muuttuvat
 taikinan rakenteen vahvistamiseksi, sillä taikina on löysempää. 
 Mitä pienempi hydraatio ja kiinteämpi taikina, sitä helpompaa on esimerkiksi 
 muunlainen taikinan työstäminen, kuten kevyt taikinan venytys ja taittaminen.
 
-Kokeile rohkeasti eri tapoja ja löydä omasi!
+Hifistellä ei tarvitse, konstailemattomuuskin kuuluu hommaan.
+Kokeile rohkeasti eri tapoja ja löydä myös omasi!
 
 ### Stretch and Fold
 
