@@ -14,7 +14,9 @@ description: Englanninkielistä leivontakirjallisuutta
 **Aihepiirit**: `oppaat`, `reseptit`, `tietokirjat`
 
 Kirja San Fransiscon Tartine -leipomon perustajalta hapanjuurileivän leivonnasta.
-Opastus- ja tietokirja leivän leivonnan maailmaan.
+Opastus- ja tietokirja leivän leivonnan maailmaan. Kirjassa käydään läpi
+Robertsonin matkaa juurileivonnan pariin ja leipomon perustamiseen. Leivonnan
+vaiheita, vinkkejä ja menetelmiä kuvaillaan tarkasti ja runsain kuvin.
 
 ### New World Sourdough
 
