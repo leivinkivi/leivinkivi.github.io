@@ -8,9 +8,9 @@ description: "Kotileivontaa ja tiedon jyväsiä."
 
 ## Ajankohtaista
 
-**8. heinäkuuta 2020** 
+**12. heinäkuuta 2020** 
 
-Lisätty tietosivu [uuneista ja paisto-olosuhteista](/docs/hapanjuurileivonta/uuniolosuhteet-ja-paistotekniikat).
+Lisätty historiasivu [ohran puinnista Kainuulaisella pientilalla 1900-luvun loppupuolella](/docs/historia/ohran-puinti-pienella-kotitilalla).
 
 {{< columns >}}
 
