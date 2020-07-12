@@ -31,7 +31,7 @@ omilta sivuilta tai jälleenmyyjiltä. Myllyt ovat yleisimmin pöytäkäyttöön
 tarkoitettuja sähköisiä tai käsin käytettäviä myllyjä. Materiaaleina on
 valittavissa kivimyllyjä ja metallisia jauhatusmekanismeja. Kivimyllyjä on
 suosittu näiden pienemmän lämmöntuoton ja siten jauhojen ravintoarvojen
-paremman säilyvyyden vuoksi. [1, 2]
+paremman säilyvyyden vuoksi. [[1, 2]](#lähteet)
 
 ### Valmistajat
 
