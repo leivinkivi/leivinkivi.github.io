@@ -18,7 +18,7 @@ ota yhteyttä.
 * Vehnä ja ruis ovat nykyisin paljasjyväisiä joten niitä voi käyttää helposti jyvänä, suurimona tai helmenä.
 * Kaura ja ohra kuorittuna kuten suurimona tai helmenä. Jyvänä myös jos akana 
 poistettu (esimerkiksi puinnin yhteydessä tai kevyesti kuorittuna)
-* Speltti kuorittuna kuten suurimona tai helmenä. Jyvänä jos akana on poistettu
+* Speltti kuorittuna kuten suurimona tai helmenä. Jyvänä jos akana on poistettu.
 Esimerkiksi Birkkalan Tila myy tämäntyyppisiä kevyesti kuorittuja spelttijyviä ilman akanaosaa
 * Ostaessa jyviä suoraan tuottajalta on hyvä mainita että ne tulevat
 kotijauhatukseen. Näin varmistut, että saat sopivia puhdistettuja, lajiteltuja ja akanattomia jyviä
