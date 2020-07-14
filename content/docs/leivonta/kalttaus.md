@@ -27,6 +27,9 @@ ja annetaan jäähtyä huoneenlämpöön tai sopivaan leivontalämpötilaan.
 * Ainesosat sekoitetaan kylmään veteen ja lämpötilaa nostetaan haluttuun
 lämpötilaan saakka, ja pidetään tässä tarkasti jopa tunteja sekoittaen
 säännöllisin väliajoin.
+* Kaltata voi myös muita nesteitä käyttäen reseptin mukaan. Esimerkiksi
+pehmeydestään kuuluisassa Japanin Hokkaidon maitoleivässä pieni määrä
+vehnäjauhoja kaltataan maitoon.
 
 Jauhojen tapauksessa kalttaus tapahtuu usein vain osalla jauhoista reseptien mukaan,
 tai vaihtoehtoisesti 5-20% jauhoista leipurinprosentteina [[1]](#lähteet). Sopiva määrä
