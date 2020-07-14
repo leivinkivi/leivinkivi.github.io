@@ -8,9 +8,9 @@ description: "Kotileivontaa ja tiedon jyväsiä."
 
 ## Ajankohtaista
 
-**12. heinäkuuta 2020** 
+**14. heinäkuuta 2020** 
 
-Lisätty historiasivu [ohran puinnista Kainuulaisella pientilalla 1900-luvun loppupuolella](/docs/historia/ohran-puinti-pienella-kotitilalla).
+Lisätty tietoartikkeli [kalttauksesta](/docs/leivonta/kalttaus).
 
 {{< columns >}}
 
