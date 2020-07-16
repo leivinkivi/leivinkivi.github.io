@@ -95,7 +95,7 @@ Yleisesti eri lähteissä on havaittu seuraavia suurinpiirteisiä aikoja [[3, 4,
 
 * **20min - 3h**: Vaaleat ja hienojakoiset jauhot. Esimerkiksi
 puolikarkea vehnä
-* **1h - 5h**: Vahvat ja runsasproteiiniset jauhot sekä täysjyväjauhot
+* **1h - 5h**: Vahvat jauhot, runsasproteiiniset jauhot ja täysjyväjauhot
 * **ei autolyysiä**: Ruisjauhoille ei ole suositeltu autolyysiä tämän
 korkean amylaasientsyymiaktiivisuuden ja fermentaationopeuden vuoksi [[3]](#lähteet).
 Ruis ei myöskään muodosta paljoa sitkoa. Monissa resepteissä kuitenkin
