@@ -82,6 +82,8 @@ tämän joustavamman ja venyvämmän rakenteen vuoksi [[4]](#lähteet)
 
 * Taikinan tekstuuri on pehmeämpi pitkäkestoisen hydraation vuoksi [[3]](#lähteet)
 * Näyttävämpi uunikoho tapahtuu helpommin ja nopeammin [[4]](#lähteet)
+* Käyttäessä esimerkiksi täysjyväjauhoja, leseet pehmenevät ja tämä edesauttaa
+hyvän gluteeniverkon säilymistä. Karkeat leseet voivat leikata muuten herkkää sitkoa.
 
 ## Kesto
 
@@ -101,12 +103,12 @@ korkean amylaasientsyymiaktiivisuuden ja fermentaationopeuden vuoksi [[3]](#läh
 Ruis ei myöskään muodosta paljoa sitkoa. Monissa resepteissä kuitenkin
 ruisjauhot ovat olleet mukana lyhyemmissäkin autolyyseissä etenkin useamman viljan leivissä.
 * Eri jauhosekoituksilla on myös improvisoitu autolyysin kestoa
-puolesta tunnista noin kahteen tuntiin
+puolesta tunnista noin kahteen tuntiin.
 * Heikon proteiinin jauhot eivät hyödy autolyysistä tai sen voi pitää
-esimerkiksi lyhyempänä
+esimerkiksi lyhyempänä [5].
 * Autolyysin valmiutta voi myös testata ikkunatestillä venyttäen
 taikinaa pisteeseen, missä taikinasta kuultaa hieman lävitse ilman,
-että taikina repeää testin aikana
+että taikina repeää testin aikana.
 
 ## Autolyysi ja suola
 
@@ -120,6 +122,7 @@ suunnitellusta leivonnan aikataulusta ja autolyysin kestosta.
 
 * [Leipäpaja, Autolyysin aakkoset](https://shop.leipapaja.com/blogs/news/autolyysin-aakkoset)
 * [King Arthur Flour, Using the Autolyse Method](https://www.kingarthurflour.com/blog/2017/09/29/using-the-autolyse-method)
+* [True Sourdough; Sourdough Autolyse: Is it Needed? If so, How Long?](https://truesourdough.com/sourdough-autolyse-is-it-needed-if-so-how-long/)
 
 ### Viittaukset
 
