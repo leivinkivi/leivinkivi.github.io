@@ -1,17 +1,16 @@
 ---
-title: "Autolyysi eli tekeytyminen"
-description: "Autolyysi, eli
-tekeytyminen, on leivonnan vaihe, missä vesi ja jauhot sekoitetaan
+title: "Autolyysi ja tekeytyminen"
+description: "Autolyysi on leivonnan vaihe, missä vesi ja jauhot sekoitetaan
 keskenään ja annetaan levätä sellaisenaan. Tässä artikkelissa
 käydään läpi yleisellä tasolla, mitä tämä tarkoittaa ja millainen
 vaikutus tällä on leivonnan prosessiin ja lopputulokseen."
 type: docs  
 ---
 
-# Autolyysi eli tekeytyminen
+# Autolyysi ja tekeytyminen
 
 Autolyysi on leivonnan vaihe, jossa vesi ja jauhot sekoitetaan keskenään
-ja annetaan tekeytyä sellaisenaan ennen muiden ainesten lisäämistä.
+ja annetaan olla sellaisenaan ennen muiden ainesten lisäämistä.
 
 Vaiheessa on kyse jauhojen entsyyminen aktivoinnista taikinan rakenteen,
 käsiteltävyyden ja maun parantamiseksi. Taikina peitetään autolyysin
@@ -20,15 +19,16 @@ muun muassa käytetyistä jauhoista ja näiden vahvuudesta.
 
 ## Lyhyesti
 
-* Suomen kielessä vaiheesta on käytetty termiä _tekeytyminen_
-(mm. [[1]](#lähteet))
 * Synonyyminä autolyysiä käytetään
 usein myös silloin, kun myös vesi, jauhot ja juuri sekoitetaan
 keskenään. Tästä on myös eri yhteyksissä käytetty termiä
 _fermentolyysi_.  Veden ja jauhon seoksesta puhutaan myös _puhtaasta
 autolyysistä_, sillä autolyysissä varsinainen tavoite ei ole
 fermentaatio.
-* Tekeytymisvaiheessa jauhojen entsyymit aktivoituvat ja
+* Suomen kielessä tästä vaiheesta kun sekoitetaan veden ja jauhojen
+lisäksi muitakin aineksia keskenään, on käytetty termiä _tekeytyminen_
+(mm. [[1]](#lähteet))
+* Vaiheessa jauhojen entsyymit aktivoituvat ja
 tuottavat muun muassa tärkkelyksestä hiivalle sokereita ja hajottavat
 proteiinirakenteita edesauttaen sitkon muodostumista.
 * Veden ja
