@@ -45,4 +45,5 @@ ja vinkkejään leivontaan.
 **Aihepiirit**: `tietokirjat`, `teknologia`
 
 Suomen leipuriliiton kustantama käsikirja ruokaleivän valmistukseen suomalaisissa leipomoissa.
-Myös leivonnan teknologia on keskeisesti esillä.
+Myös leivonnan teknologia ja leivonnan biokemialliset prosessit sekä näiden esittely 
+ovat keskeisesti esillä.
