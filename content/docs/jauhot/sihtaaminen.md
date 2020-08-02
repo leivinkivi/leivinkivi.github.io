@@ -15,9 +15,7 @@ muodostumiseen. Leseet ovat kuitu- ja ravintoainepitoisia, mutta taikinassa näm
 leikkaavat herkät gluteenirakenteet johtaen myös tiiviimpään lopputulokseen.
 
 Hienojakoisempaa ja pehmeämpää jauhoa halutessa, jauhot on myös mahdollista 
-sihdata. Tässä prosessissa ne ajetaan tiheän siivilän tai seulan läpi. 
-Hienommat jyvän osat läpäisevät ja karkeammat leseet jäävät siivilään. Näin
-myös kotioloissakin pystyy valmistamaan helposti tiettyyn hienousasteeseen asti ja välineestä riippuen hienojakoisempaa _sihtijauhoa_.
+sihdata - ajetaan vain tiheän siivilän tai seulan läpi. 
 
 ## Käyttö
 
@@ -32,7 +30,7 @@ leseitä voi myös käyttää muussakin ruoanlaitossa.
 Vertailukuvat tavallisen kotikeittiön hienojakoisen siivilän läpi
 käytetyistä vehnänjyvistä jauhetuista jauhoista.
 
-### Sihtijauhot
+### Sihdatut jauhot
 
 ![](/sihtijauhot.png)
 
@@ -41,7 +39,7 @@ käytetyistä vehnänjyvistä jauhetuista jauhoista.
 ![](/sihdatut_leseet.png)
 Sihdatut leseet
 
-### Täysjyväjauhot
+### Täysjyväjauhot leseineen
 
 ![](/taysjyvajauhot.png)
 Täysjyväjauhot
