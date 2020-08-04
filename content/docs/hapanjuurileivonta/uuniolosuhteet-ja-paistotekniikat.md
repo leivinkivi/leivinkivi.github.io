@@ -72,7 +72,7 @@ Leipä saa viimeisen olomuotonsa.
 * **50-80°C** Tärkkelys imee vapautunutta vettä ja alkaa 
 [gelatinisoitua](https://molekyyligastronomia.fi/ruokaverstas-seinajoella/tarkkelyksen-kemiaa/)
 ja vaikuttaa osana leivän lopullista rakennetta ja tekstuuria.
-Gelatinisoitumislämpötila vaihtelee viljoittain [[4]](#lähteet)
+gelatinoitumislämpötila vaihtelee viljoittain [[4]](#lähteet)
 * **100°C** Veden kiehumispiste. Höyryä vapautuu, taikina tavoittanut maksimilämpötilansa
 ja kuori alkaa muodostaa väriä.
 * **100-175>°C** Veden höyrystymisen lisäksi muodostuu ja höyrystyy orgaanisia yhdisteitä,
@@ -166,6 +166,9 @@ uuniin vaihtoehtoisin menetelmin.
 **HUOM! Työskennellessä kuuman veden ja uunikuumien välineiden kanssa, noudata aina riittävää
 turvallisuutta ja varovaisuutta välineiden kanssa. Suojaa itsesi aina ja työskentele varoen
 tilanteen ja välineiden vaatimalla tavalla.**
+
+**Varmista myös menetelmän soveltuvuus uuniisi. Ota selvää asiasta esimerkiksi 
+valmistajaltasi tai uunisi ohjekirjasta.**
 
 **Valurautapannu ja laavakivet**
 
