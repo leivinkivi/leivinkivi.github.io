@@ -40,8 +40,8 @@ muistaa pitää pilke silmäkulmassa.
 
 ## Lyhyesti
 
-* Uunilla ja olosuhteilla on merkitystä, mutta myös riippumatta uunista voi saada monipuolisia
-mainiosti kohoavista rustiikkisiin ja rapeakuorisiin paistoihin laidasta laitaan kun
+* Uunilla ja olosuhteilla on merkitystä, mutta jokaisesta uunista voi saada monipuolisia leipomuksia
+mainiosti kohoavista rustiikkisiin ja rapeakuorisiin paistoihin kun
 sopeutuu olosuhteisiin eri menetelmin.
 * Eri uunit tarjoavat erilaiset olosuhteet ja ominaisuudet leipoa.
 * Uunin ilmankosteudella ja kuumuudella paistamisen alussa on huomattava merkitys kuoren muodostumisen
@@ -82,7 +82,7 @@ tapahtuu myös [Maillard-reaktio](https://en.wikipedia.org/wiki/Maillard_reactio
 
 ## Uuniolosuhteet
 
-Eri uunit tarjoavat hyvin erilaiset olosuhteet leipoa. Romantisoidusti voisi todeta, että
+Eri uunit siis tarjoavat hyvin erilaiset olosuhteet leipoa. Romantisoidusti voisi todeta, että
 jokaisen uuni on oma ja tämän kanssa pitää tulla sinuiksi. Käytännössä tämä siis tarkoittaa, että
 uunista riippuen paisto-olosuhteet ovat erilaisia ja lopputulos voi myös 
 vaihdella sen mukaan. Omaa karismaa paistamiseen ja lopputulokseen voi myös tulla kun antaa vapaasti
@@ -95,9 +95,9 @@ tuoda ennakoitavuutta paistamiseen jos tavoittelee esimerkiksi tietynlaisia lopp
 ## Kotiuunit
 
 Kotiuuneja löytyy monen tyyppisiä. Suurin osa nykypäivänä myytävistä uuneista sisältää
-sekä kiertoilmatoiminnon ja suoravastuslämmityksen. Myös erityyppiset höyrytoiminnot
-kuuluvat monen uunin varustukseen, mutta näiden toimintatavoissa ja lämpötilarajoissa
-höyrytoiminnon suhteen on ollut eroja. Myös monesta suomalaisesta kodista löytyy tuttu
+sekä kiertoilmatoiminnon ja suoravastuslämmityksen. Myös höyrytoiminnot
+kuuluvat joidenkin uunien varustukseen, mutta näiden toimintatavoissa ja lämpötilarajoissa
+höyrytoiminnon suhteen on ollut ainakin verkkoyhteisöissä eroja. Myös monesta suomalaisesta kodista löytyy tuttu
 puulämmitteinen leivinuuni tai varaava takkaleivinuuni.
 
 Haettaessa runsasta kohoamista tai näyttävää koostumusta, kotiuuneissa paistaminen voi toisinaan
@@ -129,7 +129,8 @@ alkuvaiheessa.
 paistaminen, josta käytetään myös englanniksi nimitystä Dutch oven, antaa helposti ja
 joustavasti mainiot olosuhteet leivän paistamiseen. Leipä asetellaan valmiiksi
 kuumennettuun valurautapataan, joka on joko karkeilla jauhoilla kevyesti jauhotettu
-tai leivinpaperin päälle. Leipään tehdään viillot ja suljetaan kansi.
+tai leivinpaperin päälle. Leipään tehdään viillot ja suljetaan kansi. Kansi poistetaan
+15-20 minuutin kuluttua paiston alkamisesta. Itse suosin 20 minuutin kypsennystä kannen kanssa.
 
 Uunissa ollessaan ja mahdollisesti myös ennen leivontaa jääkaapista otettu taikina tuottaa riittävästi
 höyryä valmiiksi kuumassa padassa, jolloin suljettu pata toimii leivän paistamiseen höyrytettynä

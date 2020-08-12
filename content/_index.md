@@ -8,23 +8,23 @@ description: "Kotileivontaa ja tiedon jyväsiä."
 
 ## Ajankohtaista
 
-**14. heinäkuuta 2020** 
+**16. elokuuta 2020** 
 
-Lisätty tietoartikkeli [kalttauksesta](/docs/leivonta/kalttaus).
+Lisätty blogipostauksia aiemmista [pizzakokeiluista](/posts/pizzataikina-ohralla-ja-maalaisvehnällä) ja [maitoleivän tekemisestä](/posts/makea-vaalea-paahtis).
+(Päivämäärät alkuperäisiltä leivontapäivien tienoilta).
 
 {{< columns >}}
 
-## Kotileivontaa ja tiedon jyväsiä
+## Kotileivonnan äärellä
 
-Tietoa ja muistiinpanoja leivonnasta ja hapanjuurien maailmasta.
+Mietteitä ja muistiinpanoja leivonnasta ja hapanjuurien maailmasta.
 Kokeiluja viljojen ja jauhojen äärellä kotikeittiössä.
 Leivonnan tiedettä, perinteitä ja historiaa uteliaan
 insinöörin, amatöörikotileipurin ja harrastelijan näkökulmasta.
 Syy-seuraussuhteita oppimassa ja leivonnan juurilla.
 
 Blogi, muistiinpanoja, harrastelua, leipuripedia - ja jotain siltä väliltä - 
-[omistettuna kotileivonnalle](/docs/info/rakkaudesta-leivontaan)
-kokemuksista ja tiedon metsästyksestä.
+[omistettuna kotileivonnalle](/docs/info/rakkaudesta-leivontaan).
 
 <--->
 

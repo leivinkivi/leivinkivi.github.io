@@ -1,7 +1,8 @@
 ---
 menu:
-  after:
-    name: uutta
-    weight: 10
-title: Uutta
+  before:
+    name: blogi
+    weight: 1
+title: Blogi
+weight: 1
 ---

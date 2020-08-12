@@ -1,6 +1,6 @@
 ---
 title: "Hapanjuurileivonta"
 type: "docs"
-weight: 2
+weight: 3
 bookFlatSection: true
 ---

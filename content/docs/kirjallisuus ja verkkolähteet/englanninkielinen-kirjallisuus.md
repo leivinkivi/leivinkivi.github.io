@@ -29,6 +29,9 @@ vaiheita, vinkkejä ja menetelmiä kuvaillaan tarkasti ja runsain kuvin.
 Kirja, joka pyrkii reseptien ja tarinoiden jakamisen lisäksi lukijaa omaksumaan
 minimalistisempaa leiväntekoprosessia, joka suosii luovia ratkaisuja ja kokeiluja
 makujen ja aromien lisäksi. Rustiikki, makumaailma ja rohkeasti revityt leivät ovat keskiössä.
+Fordilla on maanläheinen ja rento suhtautuminen myös leivontaan ja
+leipiin on jäänyt lukemisen ja sosiaalisen median seuraamisen myötä mieleen.
+Tyylissä korostuu hommasta nauttiminen sekä tekemisen ilo ja lämpö.
 
 ### Bread Science: The Chemistry and Craft of Making Bread
 **Kirjoittanut**: Emily Buehler\
@@ -49,4 +52,5 @@ ja tieteellistä pohjaa näiden vaikutuksesta ja taustoista.
 
 Kimbell esittelee kirjassaan hapanjuurileivonnan biokemiaa, hapanjuurileivonnan 
 fermentaatioprosessin tuomia terveysvaikutuksia ja sen syitä, leivontaprosessia ja 
-tämän eri vaiheiden ymmärrystä sekä reseptejä.
+tämän eri vaiheiden ymmärrystä sekä reseptejä. Mainio materiaali, joka uppoutuu
+myös paljon kysymyksiin, miksi ja miten leivonnassa asiat tapahtuvat kuin ne tapahtuvat.
