@@ -17,13 +17,15 @@ Lisätty blogipostauksia aiemmista [pizzakokeiluista](/posts/pizzataikina-ohrall
 
 ## Kotileivonnan äärellä
 
-Mietteitä ja muistiinpanoja leivonnasta ja hapanjuurien maailmasta.
-Kokeiluja viljojen ja jauhojen äärellä kotikeittiössä.
-Leivonnan tiedettä, perinteitä ja historiaa uteliaan
-insinöörin, amatöörikotileipurin ja harrastelijan näkökulmasta.
-Syy-seuraussuhteita oppimassa ja leivonnan juurilla.
+Moi! Kiva kun löysit tänne leivonnan ja hapanjuurien maailman
+mietteiden ja muistiinpanojen äärelle.
 
-Blogi, muistiinpanoja, harrastelua, leipuripedia - ja jotain siltä väliltä - 
+Harrasteluluonteista asioiden tutkiskelua, havaintoja ja kokeiluja kotikeittiöstä viljojen ja jauhojen ääreltä.
+Syy-seuraussuhteita oppimassa, perinteitä ja historiaa pohtimassa.
+Leivonnan juurilla mietteitä kirjoitellen insinöörin, amatöörikotileipurin ja harrastelijan
+näkökulmasta.
+
+Blogi, muistiinpanoja, harrasteluwiki havainnoista ja löydöksistä - ja jotain siltä väliltä - 
 [omistettuna kotileivonnalle](/docs/info/rakkaudesta-leivontaan).
 
 <--->
