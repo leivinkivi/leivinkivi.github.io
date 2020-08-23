@@ -16,9 +16,11 @@ description: Suomenkielistä leivontakirjallisuutta
 **Aihepiirit**: `oppaat`, `reseptit`
 
 Kattava teos ja opas hapanjuurileivontaan, sen aloittamiseen ja
-hapanjuurileivonnan prosessiin. Kirja antaa
-tietoa hapanjuurileivonnan raaka-aineista ja näiden merkityksestä, 
-käy vaihe vaiheelta läpi juuren aloituksen ja ylläpidon, leivonnan 
+hapanjuurileivonnan prosessiin. Myös ensimmäinen suomenkielinen
+hapanjuurileivontaan keskittyvä teos ja materiaali harrasteen opetteluun. Kirja antaa
+tietoa hapanjuurileivonnan raaka-aineista ja näiden merkityksestä 
+rakentaen kokonaisvaltaista ymmärrystä leivonnan eri vaiheista.
+Kirjassa käydään vaihe vaiheelta läpi juuren aloituksen ja ylläpidon, leivonnan 
 keskeiset prosessit, ja tarjoaa lukijalleen myös kokoelman hapanjuurireseptejä.
 
 ### Hapanjuurileipureiden parhaat
@@ -27,7 +29,7 @@ keskeiset prosessit, ja tarjoaa lukijalleen myös kokoelman hapanjuurireseptejä
 **Kustantaja**: Readme.fi\
 **ISBN**: 9789523219250\
 **Sivusto**: https://www.readme.fi/kirja/hapanjuurileipureiden-parhaat-reseptikirja/\
-**Aihepiirit**: `reseptit`
+**Aihepiirit**: `reseptit`, `vinkit`
 
 *Leipävallankumous - hapanjuuren paluu* -kirja 
 sai vauhtia Facebook -palvelussa sijaitsevaan Hapanjuurileipurit -yhteisöön. 
@@ -35,7 +37,8 @@ Vuoden 2020 kesäkuussa jäseniä tässä verkkoyhteisössä oli yli 18.000.
 
 Hapanjuurileipureiden parhaat on Kuuselan kirjoittama ryhmän
 kanssa yhteistyönä kirjoitettu kirja, jossa leipurit jakavat reseptejään
-ja vinkkejään leivontaan.
+ja vinkkejään leivontaan. Kirjasta huokuu leipureiden yhteisöllisyys ja
+tekeminen.
 
 ### Leivonnan teknologia: Ruokaleipä
 **Kirjoittanut**: Hannu Salovaara, Ari Ignatius, Aimo Jussila, Maija Hurri-Martikainen\

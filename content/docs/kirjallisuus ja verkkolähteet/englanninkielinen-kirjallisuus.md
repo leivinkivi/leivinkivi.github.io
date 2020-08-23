@@ -54,3 +54,20 @@ Kimbell esittelee kirjassaan hapanjuurileivonnan biokemiaa, hapanjuurileivonnan
 fermentaatioprosessin tuomia terveysvaikutuksia ja sen syitä, leivontaprosessia ja 
 tämän eri vaiheiden ymmärrystä sekä reseptejä. Mainio materiaali, joka uppoutuu
 myös paljon kysymyksiin, miksi ja miten leivonnassa asiat tapahtuvat kuin ne tapahtuvat.
+
+### Living Bread
+
+**Kirjoittanut**: Daniel Leader\
+**Kustantaja**: Penguin Publishing Group\
+**ISBN**: 9780735213838\
+**Sivusto**: https://www.penguinrandomhouse.com/books/549057/living-bread-by-daniel-leader/\
+**Aihepiirit**: `oppaat`, `reseptit`, `tietokirjat`
+
+Daniel Leader kertoo kirjassaan polustaan artesaanileipuriksi ja kohtaamisistaan
+monien ammatintaitajien ja yhteisöjen kanssa. Hän jakaakin tapaamiensa taitavien ja
+omistautuneiden artesaanileipureiden ja yhteisöjen tarinoita, reseptejä ja mietteitä leivästä ja leivonnasta.
+Kirja sisältää myös paljon tietoa jauhoista, jauhatuksesta, raaka-aineista ja 
+leivonnan prosessista rakentaen kokonaisvaltaista ymmärrystä lukijalle leivonnasta. Mukana on myös paljon
+esimerkkireseptejä innoittamaan kotileivontaan. Resepteissä myös kerrotaan miksi
+tiettyjä vaiheita on tehty sekä miten ne vaikuttavat raaka-aineisiin ja
+lopputulokseen. Reseptit on myös kirjoitettu leipurinprosentteina. 
