@@ -1,10 +1,10 @@
 ---
 author: "Tomi Juntunen"
 date: 2020-07-25
-linktitle: Makea vaalea paahtis ja Hokkaidon maitoleivän jäljillä
-title: Makea vaalea paahtis ja Hokkaidon maitoleivän jäljillä
+linktitle: Makea vaalea maitoleipä ja Hokkaidon maitoleivän jäljillä
+title: Makea vaalea maitoleipä ja Hokkaidon maitoleivän jäljillä
 weight: 1
-description: Japanin Hokkaidon maitoleipä tunnetaan pehmoisuudestaan. Mietin, voisiko tämäntapaista leipää toteuttaa myös hapanjuurella. Päädyin tällä kertaa improvisoimaan hieman, minkä lopputulemana oli kuohkea ja pehmoinen vaalea paahtoleipä. Kokeilut alkaakoon!
+description: Japanin Hokkaidon maitoleipä tunnetaan pehmoisuudestaan. Mietin, voisiko tämäntapaista leipää toteuttaa myös hapanjuurella. Päädyin tällä kertaa improvisoimaan hieman, minkä lopputulemana oli kuohkea ja pehmoinen vaalea tangzhong -maitoleipä. Kokeilut alkaakoon!
 tags:
   - japani
   - paahtoleivät
@@ -61,9 +61,9 @@ kanssa, kuinka tämä vaikuttaa lopputulokseen.
 
 {{< columns >}}
 
-## Makea vaalea paahtis (1200g)
+## Makea vaalea maitoleipä (1200g)
 
-(Hokkaidon maitoleivän tapaan ilman voita)
+Hokkaidon maitoleivän tapaan tangzhong / milk roux -maitoleipä ilman voita.
 
 ### Raaka-aineet
 

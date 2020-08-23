@@ -10,7 +10,7 @@ description: "Kotileivontaa ja tiedon jyväsiä."
 
 **16. elokuuta 2020** 
 
-Lisätty blogipostauksia aiemmista [pizzakokeiluista](/posts/pizzataikina-ohralla-ja-maalaisvehnällä) ja [maitoleivän tekemisestä](/posts/makea-vaalea-paahtis).
+Lisätty blogipostauksia aiemmista [pizzakokeiluista](/posts/pizzataikina-ohralla-ja-maalaisvehnällä) ja [maitoleivän tekemisestä](/posts/makea-vaalea-maitoleipä).
 (Päivämäärät alkuperäisiltä leivontapäivien tienoilta).
 
 {{< columns >}}
