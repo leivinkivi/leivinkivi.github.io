@@ -25,7 +25,7 @@ Syy-seuraussuhteita oppimassa, perinteitä ja historiaa pohtimassa.
 Leivonnan juurilla mietteitä kirjoitellen insinöörin, amatöörikotileipurin ja harrastelijan
 näkökulmasta.
 
-Blogi, muistiinpanoja, harrasteluwiki havainnoista ja löydöksistä - ja jotain siltä väliltä - 
+Blogi, muistiinpanoja, havaintoja ja löydöksiä - ja jotain siltä väliltä - 
 [omistettuna kotileivonnalle](/docs/info/rakkaudesta-leivontaan).
 
 <--->
@@ -39,8 +39,3 @@ Blogi, muistiinpanoja, harrasteluwiki havainnoista ja löydöksistä - ja jotain
 Voi ei! Ota yhteyttä [ylläpitäjään](mailto:tojuntu@gmail.com) tai jos olet kehittäjä, jätä mahdollisesti 
 [virheraportti](https://github.com/leivinkivi/leivinkivi.github.io/issues), 
 niin tutkitaan ja korjataan asia!
-
-### Kehittäjille
-
-Sivu on myös avoin kontribuutioille ja muille leivontalöydöksille wikin tapaan! Lähdekoodi ja sisältö 
-on nähtävillä ja saatavilla [Githubissa](https://github.com/leivinkivi/leivinkivi.github.io).
