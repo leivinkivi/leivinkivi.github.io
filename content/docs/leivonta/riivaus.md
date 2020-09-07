@@ -31,10 +31,14 @@ myös hapanjuureen tehtyyn ruisleipään. Ei kuitenkaan vaaleaan hapanjuureen,
 koska hapanjuuri hajottaa gluteenia ja sitä taikinaa käsitellään varovammin, mutta
 hiivalla nostatus on nopeampaa ja kestää rankempaa käsittelyä."
 
-> Hotelli- ja ravintolamuseo, Tiina Kiiskinen
+> --Hotelli- ja ravintolamuseo, Tiina Kiiskinen
 
-_Hotelli- ja ravintolamuseo on suomalaisen ruoka- ja juomakulttuurin erikoismuseo Helsingin Kaapelitehtaalla._
 
 ## Lähteet
+
+[Hotelli- ja ravintolamuseo](https://www.hotellijaravintolamuseo.fi/) - 
+_Suomalaisen ruoka- ja juomakulttuurin erikoismuseo Helsingin Kaapelitehtaalla._
+
+## Viittaukset
 
 [1] Salovaara H., Ignatius A., Jussila A., Hurri-Martikainen M.; Leivonnan teknologia - Ruokaleipä, (2017, s. 285)
