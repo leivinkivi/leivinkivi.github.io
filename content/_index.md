@@ -6,12 +6,23 @@ description: "Kotileivontaa ja tiedon jyväsiä."
 
 # Leivinkivi
 
+{{< columns >}}
+
 ## Ajankohtaista
 
-**16. elokuuta 2020** 
+**7. syyskuuta 2020**
 
-Lisätty blogipostauksia aiemmista [pizzakokeiluista](/posts/pizzataikina-ohralla-ja-maalaisvehnällä) ja [maitoleivän tekemisestä](/posts/makea-vaalea-maitoleipä).
-(Päivämäärät alkuperäisiltä leivontapäivien tienoilta).
+Lisätty sivu riivauksesta leivonnan terminä.
+
+<--->
+
+## Blogi
+
+25.7.2020 - [Makea vaalea maitoleipä ja Hokkaidon maitoleivän jäljillä](/posts/makea-vaalea-maitoleipä)
+
+8.7.2020 - [Pizzataikina ohralla ja maalaisvehnällä](/posts-pizzataikina-ohralla-ja-maalaisvehnällä)
+
+{{< /columns >}}
 
 {{< columns >}}
 
