@@ -49,8 +49,8 @@ pehmeyttä ja rakennetta, ja ohraa taas muutaman leipurinprosentin verran tuomaa
 |aines|määrä (%)|
 |-|-|
 |**jauhot**|100%|
-|*puolikarkea vehnäjauho (Strömsbergin mylly)*|*50%*|
-|*00 dala-vehnäjauho (Malmgård)*|*45%*|
+|*puolikarkea vehnäjauho*|*50%*|
+|*00 dala-vehnäjauho*|*45%*|
 |*hieno ohrajauho*|*5%*|
 |**vesi**|62,5%|
 |**juuri**|40%|
@@ -58,9 +58,9 @@ pehmeyttä ja rakennetta, ja ohraa taas muutaman leipurinprosentin verran tuomaa
 
 #### Huomioita ja pohdintaa
 
-* 1h autolyysi.
-* 20h jääkaapissa.
-* Paisto leivinkivellä 300C sähköuunin 2. ylimmällä tasolla.
+Alkuperäisen reseptin lisäksi tein tunnin autolyysin. Jääkaapissa
+taikinaa pidin noin 20 tuntia. Paistaminen tapahtui 300C -asteessa
+sähköuunissa 2. ylimmällä tasolla.
 
 En ollut varma vesisuhteesta sillä käytössä oli heikompia jauhoja 
 kuin yleensä pizzoissa käytetyt vahvat jauhot. Kotonani on myös vain sähköuuni,
