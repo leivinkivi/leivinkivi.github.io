@@ -34,7 +34,7 @@ hiivalla nostatus on nopeampaa ja kestää rankempaa käsittelyä."
 > --Hotelli- ja ravintolamuseo, Tiina Kiiskinen
 
 
-## Lähteet
+## Kiitokset
 
 [Hotelli- ja ravintolamuseo](https://www.hotellijaravintolamuseo.fi/) - 
 _Suomalaisen ruoka- ja juomakulttuurin erikoismuseo Helsingin Kaapelitehtaalla._
