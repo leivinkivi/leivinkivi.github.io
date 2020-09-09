@@ -137,14 +137,10 @@ höyryä valmiiksi kuumassa padassa, jolloin suljettu pata toimii leivän paista
 uunina taaten riittävän kosteuden uunikohon tapahtumiseksi, eikä kuori ehdi kovettua
 liikaa paiston alkuvaiheessa.
 
-![](/valurautapata.jpg)
-
 **Kombo-pata**. Padat, joissa kansi toimii myös grillausalustana,
 voi käyttää helposti leipien paistamiseen. Prosessi toimii samoin kuin kannellisen
 valurautapadan kanssa, mutta leipä kaadetaan paistokannen päälle ja pata toimii kupuna
 leivän päällä.
-
-![](/combocooker.webp)
 
 **Paistokivi tai pelti ja kupu**. Myös leivinkiveä, peltiä ja muita kodista löytyviä uunipatoja voi hyödyntää
 kannellisen valurautapadan tai kombo-padan kaltaisten olosuhteiden luomiseksi. Esimerkiksi
