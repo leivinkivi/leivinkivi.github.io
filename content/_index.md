@@ -31,13 +31,13 @@ Lisätty sivu riivauksesta leivonnan terminä.
 Moi! Kiva kun löysit tänne leivonnan ja hapanjuurien maailman
 mietteiden ja muistiinpanojen äärelle.
 
-Harrasteluluonteista asioiden tutkiskelua, havaintoja ja kokeiluja kotikeittiöstä viljojen ja jauhojen ääreltä.
+Harrasteluluonteista tutkiskelua, havaintoja ja kokeiluja
+kotikeittiöstä viljojen ja jauhojen ääreltä.
 Syy-seuraussuhteita oppimassa, perinteitä ja historiaa pohtimassa.
 Leivonnan juurilla mietteitä kirjoitellen insinöörin, amatöörikotileipurin ja harrastelijan
 näkökulmasta.
 
-Blogi, muistiinpanoja, havaintoja ja löydöksiä - ja jotain siltä väliltä - 
-[omistettuna kotileivonnalle](/docs/info/rakkaudesta-leivontaan).
+Blogi ja muistiinpanoja [omistettuna kotileivonnalle](/docs/info/rakkaudesta-leivontaan).
 
 <--->
 
