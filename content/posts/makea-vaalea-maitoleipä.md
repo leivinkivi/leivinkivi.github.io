@@ -72,7 +72,7 @@ Hokkaidon maitoleivän tapaan tangzhong / milk roux -maitoleipä ilman voita.
 |aines|määrä (%)|
 |-|-|
 |jauhot|100%|
-|juuri|30%|
+|makea juuri|30%|
 |maito|60%|
 |suola|1,8%|
 |sokeri|13%|
