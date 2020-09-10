@@ -24,7 +24,7 @@ kirjoittelua.
 
 25.7.2020 - [Makea vaalea maitoleipä ja Hokkaidon maitoleivän jäljillä](/posts/makea-vaalea-maitoleipä)
 
-8.7.2020 - [Pizzataikina ohralla ja maalaisvehnällä](/posts-pizzataikina-ohralla-ja-maalaisvehnällä)
+8.7.2020 - [Pizzataikina ohralla ja maalaisvehnällä](/posts/pizzataikina-ohralla-ja-maalaisvehnällä)
 
 {{< /columns >}}
 
