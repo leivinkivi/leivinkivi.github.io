@@ -30,7 +30,7 @@ Kirja, joka pyrkii reseptien ja tarinoiden jakamisen lisäksi lukijaa omaksumaan
 minimalistisempaa leiväntekoprosessia, joka suosii luovia ratkaisuja ja kokeiluja
 makujen ja aromien lisäksi. Rustiikki, makumaailma ja rohkeasti revityt leivät ovat keskiössä.
 Fordilla on maanläheinen ja rento suhtautuminen myös leivontaan ja
-leipiin on jäänyt lukemisen ja sosiaalisen median seuraamisen myötä mieleen.
+leipiin, mikä on jäänyt kirjan lukemisen ja sosiaalisen median seuraamisen myötä mieleen.
 Tyylissä korostuu hommasta nauttiminen sekä tekemisen ilo ja lämpö.
 
 ### Bread Science: The Chemistry and Craft of Making Bread
