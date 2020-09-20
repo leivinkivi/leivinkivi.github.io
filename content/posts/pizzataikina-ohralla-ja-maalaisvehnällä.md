@@ -5,7 +5,9 @@ linktitle: Pizzataikina ohralla ja maalaisvehnällä
 title: Pizzataikina ohralla ja maalaisvehnällä
 weight: 1
 description: Miten sujuu pizzataikinan teko kun siihen sujauttaa maalaisvehnää ja ohraa? Tuliko pizzaan ananasta vai ei? Ei tällä kertaa, mutta pizzat onnistuivat ja näistä tulikin ensimmäiset hapanjuuripizzani!
-tags: pizzat
+tags:
+  - pizzat
+  - maalaisvehnät
 ---
 
 Uusi uuni kotona ja pizzapäivän paikka - ah! <3
