@@ -10,15 +10,18 @@ description: "Kotileivontaa ja tiedon jyväsiä."
 
 ## Ajankohtaista
 
-**10. syyskuuta 2020**
+**20. syyskuuta 2020**
 
-Lisätty sivu tärkkelyksestä ja taannoisesta Pan Gallegon muotoiluharjoitteista.
-Blogipostaus päivätty leivontapäivän tienoille, kun tuli venytettyä tekstin
-kirjoittelua.
+Lisätty pari postausta viikon leivonnoista ja kokeiluista.
+Blogipostaukset päivätty leivontapäiville.
 
 <--->
 
 ## [Blogi](/posts)
+
+18.9.2020 - [Pizzataikinaa maalaisvehnällä](/posts/pizzataikinaa-maalaisvehnällä)
+
+15.9.2020 - [Hokkaidon maitoleipä / Tangzhong -maitoleipä](/posts/hokkaidon-maitoleipä)
 
 29.8.2020 - [Pan Gallegon muotoiluja](/posts/pan-gallego)
 
