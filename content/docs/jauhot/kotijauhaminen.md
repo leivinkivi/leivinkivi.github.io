@@ -153,7 +153,7 @@ Kotimaisista viljoista ja jyvistä löytyy lisätietoja muun muassa
 
 [5] https://www.leipatiedotus.fi/tietoa-leivasta/vilja/viljan-jyva.html
 
-### Kontribuuttorit
+### Kiitokset
 
-* Tomi Juntunen
-* Anne Lukana, Krannin tila
+Kiitokset Anne Lukanalle Krannin tila & Kauramyllyltä kommenteista, tarkennuksista
+ja korjauksista.
