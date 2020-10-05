@@ -10,24 +10,24 @@ description: "Kotileivontaa ja tiedon jyväsiä."
 
 ## Ajankohtaista
 
-**20. syyskuuta 2020**
+**6. lokakuuta 2020**
 
-Lisätty pari postausta viikon leivonnoista ja kokeiluista.
-Blogipostaukset päivätty leivontapäiville.
+Lisätty pari postausta viikonlopun leipomisista ja korvapuustipäivän
+fiilistelystä.
 
 <--->
 
 ## [Blogi](/posts)
+
+4.10.2020 - [Kansainvälinen korvapuustipäivä](/posts/kansainvälinen-korvapuustipäivä)
+
+3.10.2020 - [Tanskalainen ruisleipä stoutilla](/posts/tanskalainen-ruisleipä-stoutilla)
 
 18.9.2020 - [Pizzataikinaa maalaisvehnällä](/posts/pizzataikinaa-maalaisvehnällä)
 
 15.9.2020 - [Hokkaidon maitoleipä / Tangzhong -maitoleipä](/posts/hokkaidon-maitoleipä)
 
 29.8.2020 - [Pan Gallegon muotoiluja](/posts/pan-gallego)
-
-25.7.2020 - [Makea vaalea maitoleipä ja Hokkaidon maitoleivän jäljillä](/posts/makea-vaalea-maitoleipä)
-
-8.7.2020 - [Pizzataikina ohralla ja maalaisvehnällä](/posts/pizzataikina-ohralla-ja-maalaisvehnällä)
 
 {{< /columns >}}
 
