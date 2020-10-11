@@ -23,11 +23,11 @@ fiilistelystä.
 
 3.10.2020 - [Tanskalainen ruisleipä stoutilla](/posts/tanskalainen-ruisleipä-stoutilla)
 
+26.9.2020 - [Pellavaisia vehnä-spelttileipiä](/posts/pellavaisia-vehnä-spelttileipiä)
+
 18.9.2020 - [Pizzataikinaa maalaisvehnällä](/posts/pizzataikinaa-maalaisvehnällä)
 
 15.9.2020 - [Hokkaidon maitoleipä / Tangzhong -maitoleipä](/posts/hokkaidon-maitoleipä)
-
-29.8.2020 - [Pan Gallegon muotoiluja](/posts/pan-gallego)
 
 {{< /columns >}}
 
