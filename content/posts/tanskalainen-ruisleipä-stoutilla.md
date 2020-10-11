@@ -6,7 +6,7 @@ title: Tanskalainen ruisleipä stoutilla
 weight: 1
 description: Sain postissa viimeinkin etsimäni Pullman-vuoan ja ensimmäisenä tällä piti päästä testaamaan Tanskalaista ruisleipää. Parin kokeilun jälkeen päätin kokeilla myös ruisleipää stoutilla.
 tags:
-  - ruisleivät
+  - ruis
   - vuokaleivät
   - pullman-vuoka
 ---
