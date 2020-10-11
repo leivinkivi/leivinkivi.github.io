@@ -47,13 +47,27 @@ ja tieteellistä pohjaa näiden vaikutuksesta ja taustoista.
 **Kirjoittanut**: Vanessa Kimbell\
 **Kustantaja**: Octopus Publishing Group\
 **ISBN**: 9780857833662\
-**Sivusto**: https://www.sourdough.co.uk/the-sourdough-school-book/\
+**Sivusto**: https://www.sourdough.co.uk/\
 **Aihepiirit**: `oppaat`, `reseptit`, `tietokirjat`
 
 Kimbell esittelee kirjassaan hapanjuurileivonnan biokemiaa, hapanjuurileivonnan 
 fermentaatioprosessin tuomia terveysvaikutuksia ja sen syitä, leivontaprosessia ja 
 tämän eri vaiheiden ymmärrystä sekä reseptejä. Mainio materiaali, joka uppoutuu
 myös paljon kysymyksiin, miksi ja miten leivonnassa asiat tapahtuvat kuin ne tapahtuvat.
+
+### The Sourdough School: Sweet Baking
+
+**Kirjoittanut**: Vanessa Kimbell\
+**Kustantaja**: Kyle Books\
+**ISBN**: 9780857839091\
+**Sivusto**: https://www.sourdough.co.uk/\
+**Aihepiirit**: `reseptit`, `tietokirjat`
+
+Jatkoa aikaisemmalle The Sourdough School -kirjalle. Kirja käsittelee hapanjuurileivonnan 
+ajantasaisimpia tutkittuja terveysvaikutuksia ja ravintoaineiden vaikutuksia
+terveyteen, antaa yleistietoa yleisimmistä esiintyvistä tunnistetuista juurissa
+esiintyvistä maitohappobakteereista, sekä tarjoaa kokoelman tekniikoita, reseptejä ja inspiraatioita omien
+jauho- ja mausteseoksien valmistukseen. Kirjassa keskitytään etenkin makeaan leivontaan.
 
 ### Living Bread
 
