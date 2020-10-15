@@ -10,10 +10,9 @@ description: "Kotileivontaa ja tiedon jyväsiä."
 
 ## Ajankohtaista
 
-**6. lokakuuta 2020**
+**16. lokakuuta 2020**
 
-Lisätty pari postausta viikonlopun leipomisista ja korvapuustipäivän
-fiilistelystä.
+Lisätty postaus antikvariaattilöydöstä ja viikonlopun vehnäleivistä.
 
 <--->
 
