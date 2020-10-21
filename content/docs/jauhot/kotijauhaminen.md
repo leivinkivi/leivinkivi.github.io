@@ -23,6 +23,8 @@ Esimerkiksi Birkkalan Tila myy tämäntyyppisiä kevyesti kuorittuja spelttijyvi
 * Ostaessa jyviä suoraan tuottajalta on hyvä mainita että ne tulevat
 kotijauhatukseen. Näin varmistut, että saat sopivia puhdistettuja, lajiteltuja ja akanattomia jyviä
 kuluttajakäyttöisille välineille
+* Jyviä voi ostaa suoraan monilta pienmyllyiltä. Suurimoita ja ryynejä löytyy usein myös kauppojen hyllyiltä.
+Tiedustele asiasta lähimmältä myllyltäsi tai pientuottajaltasi!
 
 ## Kotikäyttöiset myllyt
 
@@ -99,38 +101,6 @@ ihmisravinnoksi kelpaamatonta ja onkin poistettava ennen jauhoiksi jauhamista.
 
 Kokonaisia jyviä jauhaessa lopputuote sisältää kaikki jyvän ainekset.
 Toisinaan lopputuotteelta toivotaan hienojakoisempaa rakennetta. Katso [sihtaaminen](/docs/jauhot/sihtaaminen).
-
-## Jyviä myyvät maatilat ja myllyt
-
-### Myllyt
-
-#### Pohjois-Pohjanmaa
-
-Tyrnävän mylly\
-Tyrnävä\
-https://tyrnavanmylly.fi/
-
-#### Uusimaa
-
-Töllin Mylly\
-Nummi-Pusula\
-http://www.tollinmylly.net/
-
-Krannin Tilan kauramylly\
-Lepsämä, Nurmijärvi\
-https://krannintila.fi/
-
-Malmgårdin kartano\
-Malmgård, Loviisa\
-http://malmgard.fi/
-
-Birkkalan tila\
-Suomusjärvi\
-https://www.birkkala.com/
-
-Strömsbergin mylly\
-Porvoo\
-https://fi-fi.facebook.com/StromsberginMylly
 
 ## Lähteet
 
