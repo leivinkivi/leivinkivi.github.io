@@ -7,6 +7,9 @@ description: Suomenkielistä leivontakirjallisuutta
 
 # Suomenkielinen kirjallisuus
 
+> Otteita kirjahyllystäni leivontaan liittyen.
+> Kirjat ja lukeminen on aina mukavaa puuhaa.
+
 ### Leipävallankumous - hapanjuuren paluu
 
 **Kirjoittanut**: Eliisa Kuusela\
@@ -50,3 +53,18 @@ tekeminen.
 Suomen leipuriliiton kustantama käsikirja ruokaleivän valmistukseen suomalaisissa leipomoissa.
 Myös leivonnan teknologia ja leivonnan biokemialliset prosessit sekä näiden esittely 
 ovat keskeisesti esillä.
+
+### Pula-ajan leivonnaisia
+**Toimittaja**: "Eini Ryynänen avustajinaan jäsenjärjestöjen konsulentit, yksityiset
+emännät ja ammattiliitot, jotka ovat lähettäneet ohjeita." (Lainaus lehtisen alkulauseesta)\
+**Julkaisija**: Marttaliiton, Pienviljelijäin keskusliiton, Pienviljelijäin liiton,
+Sosiaalidemokraattisen työlaisnaisliiton ja Finlands Svenska Marthaförbundin kotitalouskeskus\
+**Julkaisuvuosi**: 1943\
+**Aihepiirit**: `reseptit`, `oppaat`
+
+> _Kirjasessa kerrotaan vinkkejä leivontaan ja raaka-aineiden hyödyntämiseen eri tavoin._
+> _Tarvikkeita säännösteltiin, eikä kaikkea ollut saatavilla. Elintarvikkeita sai_
+> _ostaa vain rajallisen määrän henkilökohtaista ostoskorttia kohti. Leipominen muuttui_
+> _pula-aikana tarvikkeiden vähyyden vuoksi niin paljon, että kirjasella_
+> _haluttiin tuoda uusia ohjeita leivontaan niillä raaka-aineilla, mitä vain oli saatavilla._\
+> _[- Löytö antikvariaatista](/posts/löytö-antikvariaatista)_

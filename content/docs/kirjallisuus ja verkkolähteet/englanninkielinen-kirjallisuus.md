@@ -5,6 +5,11 @@ bookFlatSection: true
 description: Englanninkielistä leivontakirjallisuutta
 ---
 
+# Englanninkielistä leivontakirjallisuutta
+
+> Otteita kirjahyllystäni leivontaan liittyen.
+> Kirjat ja lukeminen on aina mukavaa puuhaa.
+
 ### Tartine Bread
 
 **Kirjoittanut**: Chad Robertson\
