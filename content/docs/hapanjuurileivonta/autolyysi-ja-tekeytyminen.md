@@ -22,8 +22,7 @@ muun muassa käytetyistä jauhoista ja näiden vahvuudesta.
 * Synonyyminä autolyysiä käytetään
 usein myös silloin, kun myös vesi, jauhot ja juuri sekoitetaan
 keskenään. Tästä on myös eri yhteyksissä käytetty termiä
-_fermentolyysi_.  Veden ja jauhon seoksesta puhutaan myös _puhtaasta
-autolyysistä_, sillä autolyysissä varsinainen tavoite ei ole
+_fermentolyysi_. Autolyysissä varsinainen tavoite ei ole
 fermentaatio.
 * Suomen kielessä tästä vaiheesta kun sekoitetaan veden ja jauhojen
 lisäksi muitakin aineksia keskenään, on käytetty termiä _tekeytyminen_
