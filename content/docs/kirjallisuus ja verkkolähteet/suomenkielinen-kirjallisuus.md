@@ -26,7 +26,7 @@ rakentaen kokonaisvaltaista ymmärrystä leivonnan eri vaiheista.
 Kirjassa käydään vaihe vaiheelta läpi juuren aloituksen ja ylläpidon, leivonnan 
 keskeiset prosessit, ja tarjoaa lukijalleen myös kokoelman hapanjuurireseptejä.
 
-### Hapanjuurileipureiden parhaat
+### Hapanjuurileipurien parhaat
 
 **Kirjoittanut**: Eliisa Kuusela & Facebookin Hapanjuurileipurit -yhteisö\
 **Kustantaja**: Readme.fi\
@@ -38,10 +38,25 @@ keskeiset prosessit, ja tarjoaa lukijalleen myös kokoelman hapanjuurireseptejä
 sai vauhtia Facebook -palvelussa sijaitsevaan Hapanjuurileipurit -yhteisöön. 
 Vuoden 2020 kesäkuussa jäseniä tässä verkkoyhteisössä oli yli 18.000.
 
-Hapanjuurileipureiden parhaat on Kuuselan kirjoittama ryhmän
+Hapanjuurileipurien parhaat on Kuuselan kirjoittama ryhmän
 kanssa yhteistyönä kirjoitettu kirja, jossa leipurit jakavat reseptejään
 ja vinkkejään leivontaan. Kirjasta huokuu leipureiden yhteisöllisyys ja
 tekeminen.
+
+### Hapanjuuri taipuu
+
+**Kirjoittanut**: Eliisa Kuusela 
+**Kustantaja**: Readme.fi\
+**ISBN**: 9789523731332\
+**Sivusto**: https://www.readme.fi/kirja/hapanjuuri-taipuu-monimuotoista-leipaa-helposti/\
+**Aihepiirit**: `tietokirjat`, `oppaat`, `vinkit`
+
+Kirja jatkaa matkaa hapanjuurileivonnan parissa kohti edistyneempiä vinkkejä ja ymmärrystä juurien sielunelämästä.
+Lukijaa johdatellaan leivonnan luovuuden pariin runkoreseptejä käyttäen ja monipuolisesti eri raaka-aineita hyödyntäen.
+
+Tiukat reseptit ja aikataulut loistavat poissaolollaan.
+Tilalla onkin leivonnan luovuus, kiireettömyys ja stressittömyys johtaen aina joustavan
+ja monimuotoisen leivonnan pariin. 
 
 ### Leivonnan teknologia: Ruokaleipä
 **Kirjoittanut**: Hannu Salovaara, Ari Ignatius, Aimo Jussila, Maija Hurri-Martikainen\
