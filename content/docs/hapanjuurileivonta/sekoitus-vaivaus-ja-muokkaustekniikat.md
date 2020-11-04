@@ -18,8 +18,6 @@ kimmoisaksi, venyväksi ja joustavaksi verkostoksi aminohappoketjuiksi sitoutuen
 Muodostunutta gluteenia kutsutaan sitkoksi. Sitkon laatu ja tämän muodostuskyky riippuu useista tekijöistä.
 Hyvälaatuinen sitko näkyy taikinan käsiteltävyydessä, kimmoisuudessa, ja on merkittävä
 osatekijä lopputuloksen laadussa. Myös liian voimakkaassa tai pitkään jatkuvassa vaivauksessa sitko voi särkyä.
-Tämän merkkejä on muun muassa tarttuva, kimmoton, mureneva ja väriltään
-harmaalta vaikuttava taikina. [1](#viittaukset)
 
 ## Lyhyesti
 
@@ -29,10 +27,10 @@ käsittely sitkon rakentumisen auttamiseen käsin tai koneella.
 juuren hyvinvoinnista ensikohotukseen (fermentointiin) ja paistamiseen asti.
 * Tapoja voi kokeilla ja valita oman mieltymyksen mukaan sekä ottaen huomioon esimerkiksi 
   taikinan koostumuksen ja mahdollisesti muiden ainesten, kuten täytteiden lisäämisen.
-* Hyvän sitkon merkkejä: Taikina on kimmoisa, venyvä, joustava, ei tartu. Helppo käsitellä.
+* Hyvän sitkon merkkejä: Taikina on kimmoisa, venyvä, joustava, ei tartu. Helppo käsitellä. [[1]](#viittaukset)
 * Rikkoontuneen tai huonon sitkon merkkejä (esimerkiksi yli vaivaaminen tai ylifermentointi):
   Taikina on tarttuva, kimmoton, "liisterimäinen", mureneva, harmaa massa. Hankala muotoilla
-  ja vaikea, ellei mahdoton käsitellä.
+  ja vaikea, ellei mahdoton käsitellä. [[1]](#viittaukset)
 
 ## Menetelmät
 
