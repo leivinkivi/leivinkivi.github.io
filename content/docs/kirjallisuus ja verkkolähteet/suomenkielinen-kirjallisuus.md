@@ -45,7 +45,7 @@ tekeminen.
 
 ### Hapanjuuri taipuu
 
-**Kirjoittanut**: Eliisa Kuusela 
+**Kirjoittanut**: Eliisa Kuusela\
 **Kustantaja**: Readme.fi\
 **ISBN**: 9789523731332\
 **Sivusto**: https://www.readme.fi/kirja/hapanjuuri-taipuu-monimuotoista-leipaa-helposti/\
