@@ -60,9 +60,10 @@ yhteensä neljä. Taitoksia voi myös tehdä enemmän, mutta taikinan ylityöst�
 
 Tämän menetelmän tarkoituksena on sekä rakentaa sitkon vahvuutta, että laskostettaessa
 taikinaa venytyksen jälkeen itsensä päälle rakennetaan verkostoa taikinan sisään, mitä
-hiiva voi täyttää sokereita syödessään hiilidioksidilla. [2](#viittaukset)
+hiiva voi täyttää sokereita syödessään hiilidioksidilla. [[2]](#viittaukset)
 
 {{< youtube HprDjPWuiN8 >}}
+_Youtube -kanava: The Perfect Loaf_
 
 ### Slap and Fold
 
@@ -73,6 +74,7 @@ ilmaan, ja nopeaa heilauttavaa liikettä käyttäen läiskäytetään pöytää 
 molemmat taikinan päät laskokseen.
 
 {{< youtube Qzx7dxuvaCo >}}
+_Youtube -kanava: The Perfect Loaf_
 
 ### Coil Fold
 
@@ -81,6 +83,7 @@ Tässä taikina nostetaan keskeltä ilmaan ja laskostetaan vastakkaisilta puolil
 itsensä päälle. Alkuperäinen päällinpinta jää näin edelleen päällimmäiseksi.
 
 {{< youtube h9zWEupVMFs >}}
+_Youtube -kanava: Melissa Johnson_
 
 ### Rubaud -menetelmä
 
@@ -89,6 +92,7 @@ kevyesti sormilla nostellen poimitaan ja venytetään kevyesti useita minuutteja
 jatkuvasti toistaen.
 
 {{< youtube mNvzM_s8dDo >}}
+_Youtube -kanava: Bread Journey_
 
 ### Yleiskone
 
@@ -102,7 +106,8 @@ rikki. Tavallisesti muutaman minuutin koneellisen vaivaamisen ja kiinteytymisen 
 on myös jatkettu muun muassa venytys- ja taittomenetelmää käyttäen gluteeniverkoston
 rakentamiseksi ikkunatestin läpäisyyn saakka.
 
-Vinkkejä ja lisätietoja koneellisesta vaivaamisesta kotioloissa löytyy muun muassa
+Vinkkejä ja lisätietoja koneellisesta vaivaamisesta kotioloissa löytyy
+mainiosti kirjoitettuna muun muassa
 [Paistopinta -blogista (Jauhojen vahvuus ja sitko)](https://paistopinta.net/jauhojen-vahvuus-ja-sitko/#vinkit)
 
 ### Laminointi
@@ -122,6 +127,7 @@ mausteita ja marjoja leivän sisään, mikä voi helpottaa näiden jakautumista 
 lopputulokseen.
 
 {{< youtube hcJZJOCyPmo >}}
+_Youtube -kanava: Bread Journey_
 
 ## Vaikutus lopputuloksiin
 
@@ -136,6 +142,7 @@ Lopputuloksen kannalta itse koko leivontaprosessi onkin itsessään siis yksitt�
 merkittävämmässä roolissa.
 
 {{< youtube di-B56X5T2o >}}
+_Youtube -kanava: Foodgeek_
 
 ## Lähteet
 
