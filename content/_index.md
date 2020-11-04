@@ -10,9 +10,9 @@ description: "Kotileivontaa ja tiedon jyväsiä."
 
 ## Ajankohtaista
 
-**16. lokakuuta 2020**
+**5. marraskuuta 2020**
 
-Lisätty postaus antikvariaattilöydöstä ja viikonlopun vehnäleivistä.
+Yleistä alisivujen päivittelyä.
 
 <--->
 
