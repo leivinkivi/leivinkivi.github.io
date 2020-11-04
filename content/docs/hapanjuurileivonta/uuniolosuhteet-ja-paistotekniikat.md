@@ -25,7 +25,7 @@ Kiinnostava seikka puulämmitteisistä ammattilaistason uuneista on,
 että puilla uuni lämmitetään niin kuumaksi, että valitulla puumateriaalilla ei ole väliä.
 Uuni palaa ja tuulettuu puhtaaksi karstasta eikä jää edes mustaksi [[1]](#lähteet).
 
-Seuraavaksi käydään läpi eri paistoon liittyviä tekniikoita,
+Tällä sivulla käydään läpi eri paistoon liittyviä tekniikoita,
 kikkoja ja niksejä saada uuneista irti eri tapoja paistamiseen, mutta pitää myös
 muistaa ettei touhun tarvitse olla liian vakavaa. Ajatus on, että jos on erilaisia
 tavoitteita tai muuten uteliaisuutta kokeilla, olosuhteiden huomioonottaminen ja 
@@ -177,12 +177,14 @@ muodostamiseksi. Mikäli pidät pannua uunissa, veden pannulle kaatamisessa täy
 varovainen ettei vettä räisky uunin lasiluukulle. Tämä voi rikkoa uunin lasin.
 
 {{< youtube PabONWAcGSs >}}
+_Video: Joshua Weissmann -Youtube-kanava_
 
-**Valurautainen tai teräksinen astia ja vesi**
+**Valurautainen tai teräksinen astia ja vesi tai jääpalat**
 
 Hieman maltillisempi menetelmä kosteuden määrän nostamiseen uunin sisällä paiston ajaksi.
-Kaada kiehuvaa vettä varoen astiaan esimerkiksi ennen paistamista jolloin kosteutta on hyvin
-uunissa jo ennen paistamista tai heti leivän uuniin laittamisen yhteydessä. Mikäli vettä
+Kaada vettä astiaan ja laita se uuniin esimerkiksi ennen paistamista jolloin kosteutta on hyvin
+uunissa jo ennen paistamista tai tee tämä heti leivän uuniin laittamisen yhteydessä. Uuniin
+voi myös valmiiksi kuumaan teräsastiaan laittaa jääpaloja. Mikäli vettä
 kaataa astiaan uunissa, varo veden päätymistä uunin luukulle tämän rikkoontumisen välttämiseksi.
 Itse suosin kaataa vettä astiaan ennen tämän uuniin laittamista.
 
