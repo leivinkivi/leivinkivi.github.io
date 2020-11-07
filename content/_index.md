@@ -10,23 +10,24 @@ description: "Kotileivontaa ja tiedon jyväsiä."
 
 ## Ajankohtaista
 
-**5. marraskuuta 2020**
+**8. marraskuuta 2020**
 
-Yleistä alisivujen päivittelyä.
+Lisätty aiemmilta leivontapäiviltä blogipostauksia, jotka olivat
+pitkään kesken.
 
 <--->
 
 ## [Blogi](/posts)
 
+8.11.2020 - [Lisää löytöjä antikvariaateista](/posts/lisää-löytöjä-antikvariaateista)
+
+5.11.2020 - [Täytetty lankkuleipä](/posts/täytetty-lankkuleipä)
+
+30.10.2020 - [Pellavinen maalaisvehnäleipä ohralla](/posts/pellavainen-maalaisvehnäleipä-ohralla)
+
 15.10.2020 - [Löytö antikvariaatista](/posts/löytö-antikvariaatista)
 
 11.10.2020 - [Kaurapuuro-hunaja-vehnäleipää](/posts/kaurapuuro-hunaja-vehnäleipää)
-
-4.10.2020 - [Kansainvälinen korvapuustipäivä](/posts/kansainvälinen-korvapuustipäivä)
-
-3.10.2020 - [Tanskalainen ruisleipä stoutilla](/posts/tanskalainen-ruisleipä-stoutilla)
-
-26.9.2020 - [Pellavaisia vehnä-spelttileipiä](/posts/pellavaisia-vehnä-spelttileipiä)
 
 {{< /columns >}}
 
