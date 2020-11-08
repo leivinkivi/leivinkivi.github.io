@@ -23,7 +23,7 @@ pitkään kesken.
 
 5.11.2020 - [Täytetty lankkuleipä](/posts/täytetty-lankkuleipä)
 
-30.10.2020 - [Pellavinen maalaisvehnäleipä ohralla](/posts/pellavainen-maalaisvehnäleipä-ohralla)
+30.10.2020 - [Pellavainen maalaisvehnäleipä ohralla](/posts/pellavainen-maalaisvehnäleipä-ohralla)
 
 15.10.2020 - [Löytö antikvariaatista](/posts/löytö-antikvariaatista)
 
