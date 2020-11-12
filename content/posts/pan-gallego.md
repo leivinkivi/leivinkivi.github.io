@@ -67,3 +67,9 @@ ja onnistunut, ja maussa oli makoisaa rukiin aromia vehnän kanssa. Nam!
 
 Venyttäessäni taikinaa en paina taikinaa alas toisella kädelläni, vaan hellästi
 tuen vain ettei se nouse ilmaan.
+
+**12. marraskuuta 2020**: Bryan Ford oli lisännyt Instagram-tililleen myös
+videon leivän muotoilusta! Linkkaampas senkin vielä tähän. On nimittäin
+sen verran erilainen ja varmasti luotettavammakin oloinen.
+
+[Instagram, @artisanbryan, Pan Gallego](https://www.instagram.com/p/CHf-X4plUi2/)
