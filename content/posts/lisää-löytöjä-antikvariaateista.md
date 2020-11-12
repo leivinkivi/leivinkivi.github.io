@@ -8,6 +8,7 @@ description: Edellisten lisäksi viime aikoina tuli tehtyä vielä lisää löyt
 tags:
   - historia
   - kulttuuri
+  - jorinaa ja höpinää
 ---
 
 [Edellisen antikvariaattilöydön](/posts/löytö-antikvariaatista) jälkeen tuli vielä

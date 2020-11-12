@@ -8,6 +8,7 @@ description: Viime aikoina tuli tehtyä löytöjä leivontaan liittyen antikvari
 tags:
   - historia
   - kulttuuri
+  - jorinaa ja höpinää
 ---
 
 ## Pula-ajan leivonnaisia

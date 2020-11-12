@@ -8,6 +8,7 @@ description:
 tags:
   - muotoilu
   - harjoittelut
+  - oppaat
 ---
 
 # Pan Gallego

@@ -9,6 +9,7 @@ tags:
   - ruis
   - vuokaleivät
   - pullman-vuoka
+  - reseptit
 ---
 
 Posti toi minulle viimein kaipailemani pullman -vuoan. Vuoalle tyypillistä on

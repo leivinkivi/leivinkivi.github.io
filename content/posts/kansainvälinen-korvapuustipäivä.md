@@ -7,6 +7,7 @@ weight: 1
 description: Sunnuntaina vietettiin kansainvälistä korvapuustipäivää. Oli aika siis kokeilla korvapuusteja hapanjuureen!
 tags:
   - pullat
+  - jorinaa ja höpinää
 ---
 
 Sunnuntaina vietettiin kansainvälistä korvapuustipäivää. Paras syy pistää tulille
