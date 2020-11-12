@@ -117,7 +117,10 @@ pyrkivä menetelmä. Laminoitu taikina on lopputulos useista ohuista taikinakerr
 koostuvasta taikinasta. Tätä menetelmää käytetään esimerkiksi eri leivonnaisten
 valmistuksessa, kuten esimerkiksi voitaikinaleivonnaisissa.
 
-Hapanjuurileivonnassa laminoinnin voi ottaa mukaan esimerkiksi alkukohotusvaiheeseen:
+Termiä on myös eri konteksteissa alettu nähtävästi käyttämään synonyyminä leivonnassa leipätaikinan venyttelyssä
+ja taittelussa, joskin leivonnassa laminointi on nähtävimmin mielletty enemmän englanninkielisen
+Wikipedia-artikkelin pohjaltakin voitaikinan kerrostamiseen.
+Hapanjuurileivonnassa leivän laminoinnin voi ottaa mukaan esimerkiksi alkukohotusvaiheeseen:
 Ensimmäisten taitteluiden yhteydessä taikinan voi laminoida ja taitella takaisin kohoamaan.
 Näin gluteenirakenteita on venytetty äärimmilleen. Jotkin leipurit ovat havainneet tämän
 vaikuttavan taikinan käsiteltävyyteen, vahvuuteen, ja ilmavuuteen.
