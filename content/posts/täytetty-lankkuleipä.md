@@ -101,7 +101,7 @@ Ainesten yhteismäärä.
 ### Prosessi
 
 1. Valmista esikeitetyt jauhot (tangzhong). Lisää joukkoon loppu taikinan vesi ja anna\
-seoksen jäähtyä. Aseta uuni lämpenemään 300C.
+seoksen jäähtyä.
 2. Lisää esikeitetyt jauhot ja vesiseos jauhojen joukkoon.
 3. Autolyysi 30min.
 4. Lisää juuri ja anna levätä 15min.
@@ -113,7 +113,10 @@ seoksen jäähtyä. Aseta uuni lämpenemään 300C.
 kohotusliinalle. Tähän löytyy vinkkejä kun hakee Googlella "couche proofing" (otan kuvankin ensi kerralla...).\
 Taikinan pituutta ja leveyttä voi muokata ja asetella vapaasti. Itse pidin lankkumaisesta\
 muotoilusta.
-10. Kohotus 2,5h tai kunnes taikina alkaa alkaa olla viimeisilleen asti kohonnut.
+10. Kohotus 2,5h tai kunnes taikina alkaa alkaa olla viimeisilleen asti kohonnut.\
+Aseta uuni lämpenemään 300C noin tunti-pari liinalla kohotuksen aloituksen jälkeen\
+vähän riippuen taikinan kohoamisvauhdista. Kunhan uuni on valmiiksi lämmin paistamisen\
+alussa!
 11. Kaada taikina liinalta lapiolle tai paistoalustalle.
 12. Tee sormin reiät foccaccian tapaan. Lisää täytteet. Asettele kastiketta ja juustoa
 myös tehtyihin onkaloihin.
