@@ -10,16 +10,17 @@ description: "Kotileivontaa ja tiedon jyväsiä."
 
 ## Ajankohtaista
 
-**8. marraskuuta 2020**
+**13. marraskuuta 2020**
 
-Lisätty aiemmilta leivontapäiviltä blogipostauksia, jotka olivat
-pitkään kesken.
+Lisätty postaus maanantaisesta alkuviikon kroissanttien paistelusta.
 
 <--->
 
 ## [Reseptit](/tags/reseptit)
 
 ## [Blogi](/posts)
+
+9.11.2020 - [Hapanjuurikroissanttien harjoittelua](/posts/hapanjuurikroissanttien-harjoittelua)
 
 8.11.2020 - [Lisää löytöjä antikvariaateista](/posts/lisää-löytöjä-antikvariaateista)
 
@@ -28,8 +29,6 @@ pitkään kesken.
 30.10.2020 - [Pellavainen maalaisvehnäleipä ohralla](/posts/pellavainen-maalaisvehnäleipä-ohralla)
 
 15.10.2020 - [Löytö antikvariaatista](/posts/löytö-antikvariaatista)
-
-11.10.2020 - [Kaurapuuro-hunaja-vehnäleipää](/posts/kaurapuuro-hunaja-vehnäleipää)
 
 {{< /columns >}}
 
