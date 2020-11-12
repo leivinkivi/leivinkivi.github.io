@@ -4,6 +4,7 @@ date: 2020-11-08
 linktitle: Lisää löytöjä antikvariaatista
 title: Lisää löytöjä antikvariaatista
 weight: 1
+summary: Edellisen antikvariaattilöydön jälkeen tuli vielä jatkettua verkossa kiertelyä etsien vanhempaa kotimaista leivontakirjallisuutta. Käsiini sattuikin kotiseutuni leivontaan ja perinteisiin liittyvät Kainuun leipä -kirja ja Kainuun juustoleivän tarina.
 description: Edellisten lisäksi viime aikoina tuli tehtyä vielä lisää löytöjä antikvariaateista. Näiden kirjasten kanssa tuli palattua kotiseutuni leivonnan äärelle.
 tags:
   - historia

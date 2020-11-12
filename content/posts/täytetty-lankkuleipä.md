@@ -4,7 +4,8 @@ date: 2020-11-05
 linktitle: Täytetty lankkuleipä
 title: Täytetty lankkuleipä
 weight: 1
-description: 
+summary: Katsellessani Hapanjuurileipurit -ryhmästä löytyneen vinkin pohjalta Kokkishow:n Tartine -jaksoa (engl. The Chef Show) pääsi näkemään monenlaista mielenkiintoista leivonnasta ja myös alan yhden tunnetuimman leipomon toiminnasta. Jaksossa mestari Chris Bianco teki todella herkulliselta vaikuttavaa täytettyä pizzanhenkistä leipää. Nimeä tälle ei varsinaisesti ollut, mutta flatbreadiksi sitä kutsuttiin.
+description: Katsellessani Hapanjuurileipurit -ryhmästä löytyneen vinkin pohjalta Kokkishow:n Tartine -jaksoa (engl. The Chef Show) pääsi näkemään monenlaista mielenkiintoista leivonnasta ja myös alan yhden tunnetuimman leipomon toiminnasta. Jaksossa mestari Chris Bianco teki todella herkulliselta vaikuttavaa täytettyä pizzanhenkistä leipää. Nimeä tälle ei varsinaisesti ollut, mutta flatbreadiksi sitä kutsuttiin.
 tags:
   - vehnä
   - pizzat

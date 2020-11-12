@@ -4,6 +4,7 @@ date: 2020-09-15
 linktitle: Hokkaidon maitoleipä / Tangzhong-maitoleipä
 title: Hokkaidon maitoleipä / Tangzhong-maitoleipä
 weight: 1
+summary: Aikaisemmassa blogipostauksessani kokeilin useamman reseptin pohjalta Tangzhong-maitoleipää Hokkaidon maitoleivän tapaan ilman voita. Kokeilut jatkuivat ja palasin kokeilemaan reseptiin myös voita ja pienempää määrää sokeria Japanilaisten reseptien pohjalta.
 description: Aikaisemmassa blogipostauksessani kokeilin useamman reseptin pohjalta Tangzhong-maitoleipää Hokkaidon maitoleivän tapaan ilman voita. Kokeilut jatkuivat ja palasin kokeilemaan reseptiin myös voita ja pienempää määrää sokeria Japanilaisten reseptien pohjalta.
 tags:
   - japani
