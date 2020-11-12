@@ -17,6 +17,8 @@ pitkään kesken.
 
 <--->
 
+## [Reseptit](/tags/reseptit)
+
 ## [Blogi](/posts)
 
 8.11.2020 - [Lisää löytöjä antikvariaateista](/posts/lisää-löytöjä-antikvariaateista)
