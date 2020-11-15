@@ -10,9 +10,9 @@ description: "Kotileivontaa ja tiedon jyväsiä."
 
 ## Ajankohtaista
 
-**13. marraskuuta 2020**
+**15. marraskuuta 2020**
 
-Lisätty postaus maanantaisesta alkuviikon kroissanttien paistelusta.
+Lisätty muutamia keskeneräisiä valmiiksi saateltuja postauksia viime viikolta.
 
 <--->
 
@@ -20,15 +20,17 @@ Lisätty postaus maanantaisesta alkuviikon kroissanttien paistelusta.
 
 ## [Blogi](/posts)
 
+10.11.2020 - [Vehnäleipää viikon alkuun](/posts/vehnäleipää-viikon-alkuun)
+
 9.11.2020 - [Hapanjuurikroissanttien harjoittelua](/posts/hapanjuurikroissanttien-harjoittelua)
 
 8.11.2020 - [Lisää löytöjä antikvariaateista](/posts/lisää-löytöjä-antikvariaateista)
 
+6.11.2020 - [Pekaanipähkinä - Monkey Bread](/posts/pekaanipähkinä-monkey-bread)
+
 5.11.2020 - [Täytetty lankkuleipä](/posts/täytetty-lankkuleipä)
 
-30.10.2020 - [Pellavainen maalaisvehnäleipä ohralla](/posts/pellavainen-maalaisvehnäleipä-ohralla)
-
-15.10.2020 - [Löytö antikvariaatista](/posts/löytö-antikvariaatista)
+5.11.2020 - [Täyttä spelttiä](/posts/täyttä-spelttiä)
 
 {{< /columns >}}
 
@@ -57,8 +59,8 @@ Blogi ja muistiinpanoja [omistettuna kotileivonnalle](/docs/info/rakkaudesta-lei
 
 {{< /columns >}}
 
-### Sivustolta puuttuu jotain tai siellä on korjattavaa
+### Ota yhteyttä
 
-Voi ei! Ota yhteyttä [ylläpitäjään](mailto:tojuntu@gmail.com) tai jos olet kehittäjä, jätä mahdollisesti 
+Ota [sähköpostitse](mailto:tojuntu@gmail.com. Jos olet kehittäjä, jätä
 [virheraportti](https://github.com/leivinkivi/leivinkivi.github.io/issues), 
-niin tutkitaan ja korjataan asia!
+niin jos on jokin tekninenkin ongelma sivulla niin tutkitaan ja korjataan asia!
