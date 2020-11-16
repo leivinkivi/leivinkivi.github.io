@@ -26,7 +26,8 @@ että puilla uuni lämmitetään niin kuumaksi, että valitulla puumateriaalilla
 Uuni palaa ja tuulettuu puhtaaksi karstasta eikä jää edes mustaksi [[1]](#lähteet).
 
 Tällä sivulla käydään läpi eri paistoon liittyviä tekniikoita,
-kikkoja ja niksejä saada uuneista irti eri tapoja paistamiseen, mutta pitää myös
+kikkoja ja niksejä mitä internetistä ja foorumeilta on tullut vastaan 
+saada uuneista irti eri tapoja paistamiseen, mutta pitää myös
 muistaa ettei touhun tarvitse olla liian vakavaa. Ajatus on, että jos on erilaisia
 tavoitteita tai muuten uteliaisuutta kokeilla, olosuhteiden huomioonottaminen ja 
 oman välineistön tunteminen voi tuoda ennakoitavuutta paistamiseen jos tavoittelee
