@@ -108,7 +108,7 @@ rakentamiseksi ikkunatestin läpäisyyn saakka.
 
 Vinkkejä ja lisätietoja koneellisesta vaivaamisesta kotioloissa löytyy
 mainiosti kirjoitettuna muun muassa
-[Paistopinta -blogista (Jauhojen vahvuus ja sitko)](https://paistopinta.net/jauhojen-vahvuus-ja-sitko/#vinkit)
+[Paistopintaa syvemmältä -blogista (Jauhojen vahvuus ja sitko)](https://paistopinta.net/jauhojen-vahvuus-ja-sitko/#vinkit)
 
 ### Laminointi
 
