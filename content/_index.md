@@ -6,9 +6,6 @@ description: "Kotileivontaa ja tiedon jyväsiä."
 
 # Leivinkivi
 
-{{< columns >}}
-
-
 ## [Reseptit](/tags/reseptit)
 
 ## [Blogi](/posts)
@@ -52,6 +49,5 @@ Blogi ja muistiinpanoja [omistettuna kotileivonnalle](/docs/info/rakkaudesta-lei
 
 ### Ota yhteyttä
 
-Ota [sähköpostitse](mailto:tojuntu@gmail.com. Jos olet kehittäjä, jätä
-[virheraportti](https://github.com/leivinkivi/leivinkivi.github.io/issues), 
+Ota [sähköpostitse](mailto:tojuntu@gmail.com). Jos olet kehittäjä, jätä [virheraportti](https://github.com/leivinkivi/leivinkivi.github.io/issues), 
 niin jos on jokin tekninenkin ongelma sivulla niin tutkitaan ja korjataan asia!
