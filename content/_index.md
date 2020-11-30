@@ -8,17 +8,12 @@ description: "Kotileivontaa ja tiedon jyväsiä."
 
 {{< columns >}}
 
-## Ajankohtaista
-
-**15. marraskuuta 2020**
-
-Lisätty muutamia keskeneräisiä valmiiksi saateltuja postauksia viime viikolta.
-
-<--->
 
 ## [Reseptit](/tags/reseptit)
 
 ## [Blogi](/posts)
+
+22.11.2020 - [Pehtoorin pusupullat hapanjuureen](/posts/pehtoorin-pusupullat-hapanjuureen)
 
 10.11.2020 - [Vehnäleipää viikon alkuun](/posts/vehnäleipää-viikon-alkuun)
 
@@ -29,10 +24,6 @@ Lisätty muutamia keskeneräisiä valmiiksi saateltuja postauksia viime viikolta
 6.11.2020 - [Pekaanipähkinä - Monkey Bread](/posts/pekaanipähkinä-monkey-bread)
 
 5.11.2020 - [Täytetty lankkuleipä](/posts/täytetty-lankkuleipä)
-
-5.11.2020 - [Täyttä spelttiä](/posts/täyttä-spelttiä)
-
-{{< /columns >}}
 
 {{< columns >}}
 
